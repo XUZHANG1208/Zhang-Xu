@@ -1,0 +1,971 @@
+Number	Source	Context	Possessor_animacy	Possessor_length 	Possessum_length 	Final_sibilancy 	Prototypicality	Genitive_type 	Register 
+1	NEWS	"facilities at Abqaiq and Khurais knocked out half of the oil output from the world 's top exporter, sending consumers in Asia scrambling for alternatives. A return to normal"	N	2	2	N	N	s_gen 	LT
+2	NEWS	"was seen at the 46th District Court of Southfield and were able to obtain Burgess 's name from the courthouse. # "" Burgess is an acquaintance of one of the"	Y	1	1	N	Y	s_gen 	LT
+3	NEWS	"the game, he had four in the third period alone. After allowing Ovechkin 's power-play goal, Price made three saves to deny him the hat trick and keep"	Y	1	2	N	Y	s_gen 	LT
+4	ACAD	". Richard Bentley and son, 1890. # --. Notes upon Some of Shakespeare 's Plays. Richard Bentley and son, 1882. # --. Records of a Girlhood"	Y	1	1	N	Y	s_gen 	LT
+5	NEWS	"story # Seattle City Councilmember Rob Johnson thinks so -- and points to the city 's housing crisis. "" We're in a circumstance where we're seeing 40 people"	N	2	2	N	N	s_gen 	LT
+6	NEWS	", education, health and safety, affordability and socioeconomic environment. # Downers Grove 's overall score on the 100-point scale was 60.25. It ranked 138 for family fun"	Y	2	2	N	Y	s_gen 	LT
+7	NEWS	"# But the folks at Rover also shared some surging pop culture-inspired monikers for man 's best friend. # In addition to stand-alone stars like Beyonc?, Supreme Court"	Y	1	2	N	Y	s_gen 	LT
+8	NEWS	"arrest Friday night inside a Jewel-Osco store at 2940 N. Ashland Ave. on Chicago 's North Side. # Additionally, Arres said a DuPage County warrant has been issued"	N	1	2	N	Y	s_gen 	LT
+9	NEWS	", in court filings, said that made its agreement with Patriot void. Patriot 's bankruptcy plan was confirmed by the court last week. Peabody has a $75 million"	Y	1	2	N	Y	s_gen 	LT
+10	ACAD	"such preparation may help lengthen tenure in office, thus supporting organizational stability. Satir 's model (Satir et al., 1991) offers aspiring leaders, mentors, and"	Y	1	1	N	Y	s_gen 	LT
+11	ACAD	opportunities for students to encounter target words in content area texts. # The teacher 's role when introducing words in context is to facilitate discussion of how words are used	Y	2	1	N	N	s_gen 	LT
+12	NEWS	"the identity of Deathlok, a cyborg character from the comics never seen in Marvel 's filmed entertainment. Turns out "" S.H.I.E.L.D. "" producers planned for Deathlok from the"	N	1	2	N	Y	s_gen 	LT
+13	NEWS	"in Haiti also struggles to rebuild. After years of steering away from the country 's unforgiving political limelight after one of its own, former priest Jean-Bertrand Aristide, twice"	N	2	3	N	N	s_gen 	LT
+14	ACAD	"like and how it will be measured. Collaborate with others, including the student 's family, to collect comprehensive information about the student, including likes, dislikes,"	Y	2	1	N	Y	s_gen 	LT
+15	ACAD	"in which Jeremiah can hear them having sex and Jackson calling his mother "" Daddy 's little girl "" and "" my baby "" (116). Early in the"	Y	1	5	N	Y	s_gen 	LT
+16	NEWS	"nearly 100,000 people. Replacing her will be more difficult. Galambos led the community 's drive to incorporate, suffering defeat after defeat until a dramatic political realignment at the"	N	2	1	N	N	s_gen 	LT
+17	ACAD	""" or other introductory activities can be incorporated to help students learn about each other 's interests, strengths, and communication approaches. The facilitator then covers any number of"	Y	2	4	N	N	s_gen 	LT
+18	NEWS	"has also surged. Since President Felipe Calderon deployed Mexico's military against the country 's drug kingpins in December 2006, the number of armed private security firms in the"	N	2	1	N	N	s_gen 	LT
+19	ACAD	"this example, would be standardized scores that would be used to determine a child 's severity classification. The derived cutoff points for each severity category would be test specific"	Y	2	2	N	N	s_gen 	LT
+20	ACAD	"by virtually all subsequent chronicles of Johnny Appleseed.2 # Of more direct importance to M'Gaw 's novel is Henry Howe's 1847 Historical Collections of Ohio, which includes a two-page"	Y	1	1	N	Y	s_gen 	LT
+21	ACAD	were between the ages of 9 and 11 years old (64.9%). Cochran 's Q test revealed no significant differences in the proportions of children identified as outliers in	Y	1	2	N	Y	s_gen 	LT
+22	WEB	"as well. # tallbloke says: November 10, 2012 at 11:14 am Earth 's average surface temperature has only increased around 0.5% since the end of the little ice"	N	1	3	Y	Y	s_gen 	OT
+23	WEB	308454 Miranda Lambert 's Dad Also' a Sucker' When It Comes to Stray Dogs # By now	Y	2	1	N	Y	s_gen 	OT
+24	WEB	escape into the air. # Replacing a clogged air filter can improve your car 's gas mileage by as much as 10 percent. # Drive the speed limit;	N	2	2	N	Y	s_gen 	OT
+25	WEB	"the point? # I don't know about you, but I miss Oprah 's regular talk show. I realize she has her own network, and I have"	Y	1	3	N	N	s_gen 	OT
+26	WEB	"of it's natural resources and deny the workers safety, health and the country 's well being. They want tort reform -- so if you die on a Koch"	N	2	2	N	N	s_gen 	OT
+27	WEB	tackle. He has decent feet but could have a tough time with Chandler Jones 's bullrush. The rest of the line has been patchwork with center Samson Satele and	Y	2	1	Y	Y	s_gen 	OT
+28	WEB	"before me as the appearance of a man. 16 And I heard a man 's voice between the banks of Ulai, which called, and said, Gabriel,"	Y	1	1	N	Y	s_gen 	OT
+29	WEB	". # A Cataclysmic FAILURE. # Well - in the end Masschusetts rejected Romney 's take-over. Instead of GAINING Republican seat, Romney's plan crashed and burned."	Y	1	1	N	N	s_gen 	OT
+30	WEB	"devastating blow that the global economic crisis delivered in 2008 -- 2009, when Ukraine 's GDP fell by 15 percent. # Thus far the Yanukovych government has managed to"	N	1	1	N	Y	s_gen 	OT
+31	WEB	"most normal person they meet (Wash) still has issues, what with Epsilon 's memories being beamed directly into his mind and all. # The heroes of The"	Y	1	1	N	Y	s_gen 	OT
+32	WEB	read the New York Times story http: //tinyurl.com/d7lv4fb # A technician involved in BP 's efforts to plug the well said on Tuesday that there were various opinions on the	Y	1	1	N	Y	s_gen 	OT
+33	WEB	since. # Dwight Eisenhower was obsessed with westerns. White House projectionist Paul Fischer 's handwritten log showed he watched more than 200 of them in the course of his	Y	2	2	N	N	s_gen 	OT
+34	WEB	"still require that insurance companies cover those with pre-existing conditions, just as the president 's law has. # "" I'm not getting rid of all of health care"	Y	2	1	N	N	s_gen 	OT
+35	WEB	". In the middle of fighting said Big Bad, this goes through the hero 's head: # It was a strange, chilling thought, dancing across his head"	Y	2	1	N	Y	s_gen 	OT
+36	WEB	"addition, young women face more reproductive health vulnerabilities than men. Biologically, women 's risk of acquiring sexually transmitted infections during unprotected sexual relations is two to four times"	Y	2	1	N	N	s_gen 	OT
+37	BLOG	"of the school's varsity football players at a party at one of the player 's homes Saturday night, police told the NY Daily News, adding the sex was"	Y	1	1	N	Y	s_gen 	OT
+38	BLOG	"? Because... that wouldn't be as easy and/or self-gratifying as exploiting young women 's bodies and consumer addictions (booze, sex, and food) for profit margins"	Y	2	1	N	Y	s_gen 	OT
+39	BLOG	"actually presented a semi-coherent foreign policy approach to correct some of the blunders of Bush 's first term, but the American people still favoured Bush when they went to the"	Y	1	2	Y	Y	s_gen 	OT
+40	BLOG	"to think I was once a republican - voted for (gasp!) Reagan 's 1st term. Then I started paying attention, when he opened the door and"	Y	1	2	N	Y	s_gen 	OT
+41	BLOG	not the first man in her life. # Strong social pressures reduce a woman 's willingness to use the powers of the state to her advantage in marital disputes:	Y	2	1	N	N	s_gen 	OT
+42	BLOG	"as dramas Mistresses, Red Widow and Zero Hour. Already this fall, Lee 's team has granted full-season orders to Nashville, The Neighbors and second-year Shonda Rhimes drama"	Y	1	1	N	Y	s_gen 	OT
+43	BLOG	". With each introduction of a new character the narrator lists all of the character 's fashion choices. From head to toe, not detail is spared regarding how each"	Y	2	2	N	N	s_gen 	OT
+44	BLOG	"04, 2012 6:46 PM: # I am still seething with anger at Obama 's horrible performance. I put last night on par with his "" surge in Afghanistan"	Y	1	2	N	N	s_gen 	OT
+45	BLOG	than life quality to the main subject. 4. the light bouncing off the model 's right cheek does look a little artificial. 5. wonder if it was deliberate but	Y	2	2	N	Y	s_gen 	OT
+46	BLOG	which were deleted are those which have no apparent relevance to Cholmeley and his crew 's atheism. This would also provide one explanation for the Baines Note being sent to	Y	2	1	N	N	s_gen 	OT
+47	BLOG	"they are more equipped to pass on information to their students. During the workshop 's closing ceremony, the Chief Executive of Seychelles Tourism Board, Elsia Grandcourt, presented"	N	2	2	N	N	s_gen 	OT
+48	BLOG	"CULTURE, CIVILIZAION AND RELIGION. # This is the Obama DOJ and the administration 's PC attempt to downplay Muslim crime for their own agenda. It stinks for victims"	N	2	2	N	N	s_gen 	OT
+49	NEWS	"the end, Huckaby said the system will need more state funding. The state 's per pupil funding is about the same as it was in 1994. # Davis said"	N	2	3	N	N	s_gen 	LT
+50	ACAD	". "" One White House aide later wrote that this comment had "" rattled Clinton 's confidence in Yeltsin's emotional, physical, and political stability. "" Over the"	Y	1	1	N	N	s_gen 	LT
+51	NEWS	""" But how good is good? "" The goal is to beat last year 's revenue figures, which he described were "" fair. "" # "" Hopefully,"	N	2	2	N	N	s_gen 	LT
+52	ACAD	"the imposition and review of criminal punishments frequently entails consideration of issues within the judiciary 's expertise. (n98) Granted, Congress generally deserves deference in matters of federal policy"	N	2	1	N	N	s_gen 	LT
+53	NEWS	"Both ideas were wrong. Real training meant watching, listening, diverting a dog 's exuberance, not suppressing it. You couldn't change a river into a sea"	Y	2	1	N	N	s_gen 	LT
+54	ACAD	"say, "" What can I do? It's work. "" Around Haidir 's neck hangs a laminated identification card given him by the U.S. troops that designates him"	Y	2	1	N	Y	s_gen 	LT
+55	ACAD	"present age. Parent's education level was computed by summing father's and mother 's education. # Psychosocial variables were self-esteem, enculturation (adherence to Korean culture)"	Y	1	1	N	N	s_gen 	LT
+56	ACAD	"lasting refrain that lingers well beyond the visit. # A year after Carol Plum-Ucci 's visit, a student asked, "" Is her new book out yet? I"	Y	2	1	N	N	s_gen 	LT
+57	NEWS	") - With close to 200 candidates already signed up to run in the state 's historic recall election of Gov. Gray Davis, the ballot itself could be a"	N	2	5	N	N	s_gen 	LT
+58	NEWS	", began picking up the pieces. # At least 21 people died as Allison 's floodwaters surged over freeways and swamped 20,000 homes. Property damage from the storm,"	N	1	1	N	Y	s_gen 	LT
+59	ACAD	financial ruin. Not that Fred is to blame -- the text merely records Carlyle 's rain and death. It was Carlyle alone who was responsible for his downfall.	N	1	3	N	N	s_gen 	LT
+60	ACAD	"'ll get the sites set up,' "" recalls Tim Bollinger, Lehigh County 's composting operations manager. As part of the deal, the county provides the specialized"	N	2	3	Y	N	s_gen 	LT
+61	NEWS	"agents Grant Hill and Tracy McGrady this summer. Many think Jordan will use Gabriel 's blueprint to rebuild the Wizards. # For now, the honeymoon continues between Jordan"	Y	1	1	N	Y	s_gen 	LT
+62	ACAD	"of the last countries in Europe to do so. As a result of Turkey 's official recognition of israel, Turkish-Arab relations subsequently deteriorated. The Muslim Brotherhood newspaper Al-dawa"	N	1	4	N	Y	s_gen 	LT
+63	ACAD	"schools are primarily aimed at developing human capital, workers who will do the nation 's chores without asking too many troublesome questions, serving as a giant sorting machine ("	N	2	1	N	N	s_gen 	LT
+64	NEWS	"'s finished he meets up with a speedbag. Within a few seconds, Ali 's fists have the dangling air bladder rapping in a satisfying staccato. # Surprisingly rhythmic"	Y	1	1	N	Y	s_gen 	LT
+65	NEWS	"'s chief of construction, had revealed that the Army wanted to build the world 's largest office building on the banks of the Potomac River in Arlington. # The"	N	2	2	N	N	s_gen 	LT
+66	ACAD	"their children's lives. An array of research across many disciplines demonstrates that children 's interactions with their parents during the first few years, before they even enter school"	Y	1	1	N	N	s_gen 	LT
+67	ACAD	"regarding the narrative enclitic, to the Coyote narrative told by Lisandro Mendez. Kenoi 's use of initial particles also differs from Mendez's. Kenoi used the initial particle"	Y	1	4	N	N	s_gen 	LT
+68	NEWS	"his impending appointment have circulated since Friday, and an executive familiar with Mr. Armstrong 's plans said he understood that Mr. Armstrong had agreed to take the AT &T; job"	Y	2	1	N	Y	s_gen 	LT
+69	NEWS	the state. # Ebon Academy was to be the premier prep school of America 's next generation of black politicians and entrepreneurs. # Alexander bought three air-conditioned buses with	N	1	7	N	N	s_gen 	LT
+70	ACAD	"the attorney general's office launched a pilot project in which it assumed the agency 's legal responsibilities in some areas, with locally elected prosecutors taking over in some others"	N	2	2	N	Y	s_gen 	LT
+71	ACAD	the line to be labeled as valid in the cache. The timing of LFARB 's validation pass guarantees that the pass is not made until the last possible storage UE	N	1	2	N	N	s_gen 	LT
+72	NEWS	"June 1967, Rogers left the state in grief. But he still visits Monge 's grave site at Woodpecker Hill, the burial place for convicts abandoned by family and"	Y	1	2	N	Y	s_gen 	LT
+73	NEWS	"do-it-yourself suburbanites, Home Depot is entering uncharted turf. On Thursday, Home Depot 's first effort to cater to rural communities will begin when the Quincy CrossRoads opens."	N	2	2	N	N	s_gen 	LT
+74	NEWS	"and Super G last season. Still, few are ready to count out Italy 's fabulous Alberto Tomba -- double gold in slalom and giant slalom in 1988 and gold"	N	1	3	N	N	s_gen 	LT
+75	ACAD	handling this human traffic. It was seen as a major factor in the port 's economy. Bitter price wars ensued. Liverpool lines ran ships from Mediterranean ports and	N	2	1	N	N	s_gen 	LT
+76	ACAD	"mixed performance record of the ABEIP, not to mention the failure of Latin America 's previous attempts at integration. Optimism was tempered with skepticism. On the other hand"	N	2	4	N	N	s_gen 	LT
+77	ACAD	"offshore fisheries has not occurred without biological, economic, and social impacts. Hawaii 's commercial and recreational fisheries are no longer what they were, and the relationship between"	N	1	4	N	N	s_gen 	LT
+78	ACAD	"do this, Mary was consistently functioning at a below-average level 4 in the school 's spelling program. Since Mary has had an opportunity to work in her learning style"	N	2	2	N	N	s_gen 	LT
+79	ACAD	"her husband shows for his sister (Moore 1988:263). # From the husband 's perspective, we see three families in which he is co-resident with a wife's"	Y	2	1	N	N	s_gen 	LT
+80	ACAD	"appropriate in a research review. # Of particular interest to readers is the author 's description, presented in considerable depth, of the meta-analysis of research on giftedness conducted"	Y	2	1	N	N	s_gen 	LT
+81	NEWS	"in your thoughts and prayers. "" Other local establishments are pasting posters with Jayme 's information in their shop windows. # More than 1,500 tips have poured in from"	Y	1	1	N	N	s_gen 	LT
+82	NEWS	"writes letters to friends, family and the police. We never learn her assailant 's motive or identity.) # It is a messed-up book. I had not"	Y	2	3	N	N	s_gen 	LT
+83	NEWS	"-- known as "" Salad Bowl of the World "" -- is one of America 's least affordable places to live, exemplifying a housing crisis that plagues California's rural"	N	1	5	N	N	s_gen 	LT
+84	NEWS	University of Arizona vs BYU University of Arizona vs BYU # Kevin Sumlin 's debut as Arizona coach did not go as planned. # Kelly Presnell / Arizona	Y	2	4	N	N	s_gen 	LT
+85	NEWS	"that this game destroys people's brains, "" Costas said. # "" Bob 's opinions are his own, and they do not represent those of the NBC Sports"	Y	1	1	N	N	s_gen 	LT
+86	NEWS	"amazing how these relatively large creatures can maneuver between the branches and reach the tree 's highest point, seemingly without fear or trepidation. # Back at the campground,"	N	2	2	N	Y	s_gen 	LT
+87	NEWS	""" Written and directed by Carol Morley, the movie retains several of the novel 's central characters, but it is so far from the source material otherwise that midway"	N	2	2	N	Y	s_gen 	LT
+88	NEWS	"not on the police force. 70304706 Apple 's Game Trend of the Year is' Battle royale,' thanks to' Fortnite"	N	1	5	N	Y	s_gen 	LT
+89	NEWS	"protest conservative causes, has played into conspiracy theories about wealthy Jews. # Trump 's supporters deny that he has stoked hate, saying that hate crimes were already rising"	Y	1	1	N	Y	s_gen 	LT
+90	NEWS	"tree, most of the growing stops, and the sap waits in the tree 's roots until just the right time to recycle back into the branches and buds."	N	2	1	N	Y	s_gen 	LT
+91	NEWS	"a microphone out of his hands, was changed to exaggerate the aggressiveness of Acosta 's actions. # "" Nobody manipulated it. Give me a break, "" Trump"	Y	1	1	N	N	s_gen 	LT
+92	NEWS	GAMEDAY on NFL Sunday!!!!!!!?? # Cominsky 's story is one a lot of players can certainly relate to. After playing well	Y	1	1	N	N	s_gen 	LT
+93	NEWS	champion will be a Tennessee Volunteer # Andrew Ference makes an attempt in the boy 's Division III Pole Vault on May 5. # Ralph Freso / for the Arizona	Y	2	4	N	N	s_gen 	LT
+94	NEWS	"in at least five others. On Saturday, Jan. 27, 2018, Ryan 's family got the chance to meet two of Ryan's organ recipients, Archangel,"	Y	1	1	N	Y	s_gen 	LT
+95	NEWS	"nothing for granted in November. # * Tammy Bruce, president of Independent Women 's Voice, author and Fox News contributor, is a radio talk show host."	Y	2	1	N	Y	s_gen 	LT
+96	NEWS	"deal as it stands because it "" doesn't live up "" to the president 's promises to help workers and halt outsourcing. He called the president's threat """	Y	2	1	N	N	s_gen 	LT
+97	NEWS	husband of a missing Connecticut woman tried to visit their five kids at his mother-in-law 's Upper East Side apartment Wednesday night -- but was turned away by security guards she	Y	2	4	N	Y	s_gen 	LT
+98	NEWS	". When the court ordered that the father could not see the baby, Gavin 's mother disobeyed court orders and Gavin was taken away from her as well. Over"	Y	1	1	N	Y	s_gen 	LT
+99	NEWS	"Mescal March 10, officials say. Read more here. # Cochise County Sheriff 's Department Mug shots 2019 # Jamie Jackson, 40, failed to show up"	Y	3	2	N	Y	s_gen 	LT
+100	NEWS	"prosthetic designed by UNO researchers to assist with his cello playing. # Omaha Skutt 's Tyler Skradski (55), right, fights for a rebound with York's"	Y	2	2	N	Y	s_gen 	LT
+101	NEWS	"Jimmy Carter and Sen. Bernie Sanders of Vermont, an independent. # The school 's president, Jerry Falwell Jr., said in an opinion piece for Fox News that"	N	2	1	N	N	s_gen 	LT
+102	NEWS	"foe in the bitter 2016 presidential election, Clinton was an easy target for Trump 's attacks. "" Lock her up "" chants are still a fixture at Trump's"	Y	1	1	N	N	s_gen 	LT
+103	NEWS	"Rochester # John Kanaras of Rochester Hills, a long time customer of Mr. B 's Food & Spirits in Rochester holds a photo of Ben Gell, the bartender who"	Y	2	3	N	N	s_gen 	LT
+104	NEWS	is now accused of conspiring with his boyfriend to kill the boy and the child 's mother. # The St. Louis Post-Dispatch reports that 36-year-old Deonte Taylor was charged Wednesday	Y	2	1	N	Y	s_gen 	LT
+105	NEWS	the federal ruling this week will matter to Kansas voters. # It was Kobach 's second major setback of the year. # The first involved the Presidential Advisory Commission	Y	1	3	N	N	s_gen 	LT
+106	NEWS	"carnival outing when Wesley's mom saw a raised, dark mole on her daughter 's back. It had been there awhile. It started out flat, but over"	Y	2	1	N	Y	s_gen 	LT
+107	NEWS	"release its financial results for the quarter ended June 30, 2018. The Company 's management team will host a conference call discussing the Company's financial results and recent"	N	2	2	N	Y	s_gen 	LT
+108	NEWS	and its flight pens were still lively with market-ready roosters three weeks into this year 's season. # The tiptoe treatment has to do with South Dakota's reputation as	N	2	1	N	N	s_gen 	LT
+109	NEWS	"Red Grange # New Hall of Famer Brian Urlacher poses with his bust after Saturday 's enshrinement ceremony. # A star at Wheaton and a phenomenon at Illinois, the"	N	1	2	N	N	s_gen 	LT
+110	NEWS	Tbilisi. # The 2021 Super Cup -- played between the winners of that year 's Champions League and Europa League -- will be played at Northern Ireland's national stadium	N	2	5	N	N	s_gen 	LT
+111	NEWS	"performance by an actor in a featured role in a musical for "" The Band 's Visit. "" Robert Deutsch, USA TODAY NETWORK"	Y	2	1	N	N	s_gen 	LT
+112	NEWS	"Wonder wowed with his harmonica skills and then brought the remaining mourners at Aretha Franklin 's lengthy funeral to their feet with a moving version of "" As. "" #"	Y	2	2	N	N	s_gen 	LT
+113	NEWS	of his yet-unannounced job change than how meticulous he was. Lillard tracked down Amick 's phone number and personally sent him a text in an attempt to verify the news	Y	1	2	N	Y	s_gen 	LT
+114	NEWS	"it were booked. # Other students ended up booking a hotel almost an hour 's drive from downtown Minneapolis. # MSU student Ryan Schiffman, right, with his"	N	2	1	N	N	s_gen 	LT
+115	NEWS	"beyond what limited general fund and other governmental revenues allow. # Mayor Catherine Pugh 's willingness to beg, plead and cajole businesses and individuals to support key city priorities"	Y	3	1	N	N	s_gen 	LT
+116	NEWS	""" # LAFC has a league-leading 19 goals for the season, making Tyler Miller 's splendid play in goal almost unnoticed. His shutout Saturday was his second in as"	Y	2	2	N	N	s_gen 	LT
+117	NEWS	indelible memories. Here are 53 of my favorites: # 1. Malcolm Butler 's INT: Pivotal. Shocking. Unforgettable. The New England Patriots' undrafted rookie	Y	2	1	N	Y	s_gen 	LT
+118	NEWS	"$76,074, down 11.8 percent from the proposed $86,273 for these properties. Last year 's value was $62,558. # Cleveland Heights - The value of 1,596 appealed properties is"	N	2	1	N	N	s_gen 	LT
+119	NEWS	"finds the picture that he will save forever, perhaps the last one of Fernandez 's life. There is Fernandez smiling, as usual, but his eyes are bloodshot"	Y	1	1	Y	N	s_gen 	LT
+120	NEWS	of on-court coaching in tennis. # Former player Jiri Vanek was asked after Kvitova 's fourth-round win at the Australian Open for his thoughts regarding on-court coaching being broadened.	Y	1	1	N	N	s_gen 	LT
+121	NEWS	"expensive hit if DACA is repealed, the Attorney General's Office said. Swanson 's news release noted many business leaders, including the Minnesota Chamber of Commerce, want"	Y	1	2	N	N	s_gen 	LT
+122	NEWS	barrier to recovery. # Get Fast Forward in your inbox: # Forget yesterday 's news. Get what you need today in this early-morning email. # Andrew Dreyfus	N	1	1	N	N	s_gen 	LT
+123	NEWS	"won the only Ivy League game so far (over Penn), but Yale 's overall metrics give it the nod for now.... # History lesson: Oklahoma"	N	1	2	N	N	s_gen 	LT
+124	NEWS	"the following summer, in July 2016, when more news outlets started comparing Mylan 's egregious EpiPen price hikes to the actions of disgraced drug-industry exec Martin Shkreli. #"	N	1	3	N	N	s_gen 	LT
+125	NEWS	"# DETROIT -- Over the past week, each text that pings into Jakobi Meyers 's phone has planted a little seed of dread. # "" Heard you're doing"	Y	2	1	N	Y	s_gen 	LT
+126	NEWS	"serve a hungry-for-sports community, and on this night, Coca-Cola Park, the team 's $50 million stadium, is glistening. "" Bacon, USA, "" it brands"	Y	2	3	N	N	s_gen 	LT
+127	NEWS	"an animal has a chip and reading details stored on it, like the owner 's name and address. # "" There's about four vans that go out per"	Y	2	3	N	Y	s_gen 	LT
+128	NEWS	"two years before he was lured to Luminar by Russell. Evans had charmed Russell 's then-girlfriend on a flight, and she rallied for him to get hired. His"	Y	1	1	N	Y	s_gen 	LT
+129	NEWS	"Italy's president, who is holding and playing a key card in the nation 's fast-evolving political crisis, was a timid law professor abruptly thrust into public life when"	N	2	3	N	N	s_gen 	LT
+130	NEWS	efficiency and his ability as a runner have been complemented by running back Christian McCaffrey 's explosiveness all year. # Carolina Panthers running back Christian McCaffrey became the first player	Y	2	1	N	N	s_gen 	LT
+131	NEWS	"out of the flooded blocks near 1st and M Streets after a visit to Melody 's house where they loaded up supplies in Fremont, Nebraska on Saturday, March 16"	Y	1	1	N	Y	s_gen 	LT
+132	NEWS	"$7.25 per hour. "" # These figures give the lie to the Trump administration 's opposition to the minimum wage increase. As we reported in May, that opposition"	N	3	1	N	N	s_gen 	LT
+133	NEWS	"argument for impeachment, and a source of anger for Republicans who said a prosecutor 's job is to bring charges or not, but not to hold the power of"	Y	2	1	N	Y	s_gen 	LT
+134	NEWS	"Among the mourners were law enforcement officials from several jurisdictions. Early arrivals included Lambert 's colleagues from Illinois State Police, along with Cook County sheriff's deputies and officials"	Y	1	1	N	Y	s_gen 	LT
+135	NEWS	"this nine-game homestand. # The Yankees need him to be one of the game 's best hitters, and they are confident he's approaching being healthy enough to prove"	N	2	2	N	N	s_gen 	LT
+136	NEWS	Hill. # Charlotte-Mecklenburg Police # Police said Adams and Stevens were found driving Medina-Chevez 's SUV in Maryland days after he went missing. Medina-Chevez was later found dead in	Y	1	1	Y	Y	s_gen 	LT
+137	NEWS	"lower cost component in roasted blends. Robusta makes up nearly 90 percent of Indonesia 's coffee harvest. # The arabica grown in Sumatra is unique, in part due"	N	1	2	N	N	s_gen 	LT
+138	NEWS	"Democrats, of course. # Both women set out their long-standing positions on Chicago 's challenges with law enforcement and criminal justice. They discussed the leadership ranks of Chicago"	N	1	1	N	N	s_gen 	LT
+139	NEWS	"2004, he was a third-third All-American, a first-team All-Big 12 performer and NU 's defensive MVP. He was selected in the second round of the NFL draft."	Y	1	2	N	N	s_gen 	LT
+140	NEWS	"of similarly-named LLCs that serve as controlling companies for various real estate interests. Trump 's disclosure also doesn't name ICBC as indirectly paying him money, but Trump has"	Y	1	1	N	N	s_gen 	LT
+141	NEWS	"in its second year of funding study-abroad trips to approximately 60 countries, like Allison 's 2004 trip to Alcal? de Henares, Spain. # It's taken a"	Y	1	2	N	N	s_gen 	LT
+142	NEWS	"of "" responsible growth, "" a strategy he has said involves keeping the bank 's risks in check. # "" So many things are vastly improved at Bank of"	N	1	1	N	N	s_gen 	LT
+143	NEWS	"General William Barr released last month. # "" I would defer to Bob Mueller 's judgment, and I do, "" Mr. Schiff said. "" But I think"	Y	2	1	N	N	s_gen 	LT
+144	NEWS	"proud that the process of making "" The Lion King "" brought together both filmmaking 's past and its future. Call it the circle of life, Hollywood style."	N	1	1	N	N	s_gen 	LT
+145	NEWS	# The Post learned that state prosecutors in Miami have an active investigation into Bannon 's assertions that he was a Florida resident and qualified to vote in the state from	Y	1	1	N	N	s_gen 	LT
+146	NEWS	"sides on Woody Allen's movies, Kevin Spacey's TV shows and R. Kelly 's music. This came home to me a few years ago, at a showing"	Y	2	1	N	Y	s_gen 	LT
+147	NEWS	"building as a "" 14-room townhouse that Bannon occupies. "" # "" Ordinarily Bannon 's townhouse is crypt-quiet and feels like a museum, as it's faithfully decorated down"	Y	2	1	N	Y	s_gen 	LT
+148	NEWS	"businesses and even zoos will be closed across the region. # The Windy City 's "" high "" temperature on Wednesday should be around 10 below zero, while the"	N	3	2	N	N	s_gen 	LT
+149	NEWS	"breast cancer patients since the early 2000s. The test examines genes from a patient 's breast cancer biopsy sample and allows doctors to assign a patient a "" recurrence score"	Y	2	4	N	Y	s_gen 	LT
+150	NEWS	oil revenue. Iran retaliated with measures calibrated to be strong enough to get Washington 's attention but not so strong as to require a U.S. military response. # Like	N	1	1	N	N	s_gen 	LT
+151	NEWS	"and struck out 17 in 18 innings - is strong. And that includes Friday 's game in New York, during which the team did him no favors. #"	N	1	1	N	N	s_gen 	LT
+152	NEWS	"'s Longmead-Puritas neighborhood. # Cuyahoga County Medical Examiner Dr. Thomas Gilson called the boy 's death "" extremely suspicious "" and said he likely died sometime in late spring or"	Y	2	1	N	N	s_gen 	LT
+153	NEWS	"as by personal campaigning, where he emphasizes his connections to most of the district 's eight counties. # Matthew Ridenhour, a former Mecklenburg County commissioner, said he"	N	2	2	N	Y	s_gen 	LT
+154	NEWS	"see and spend time with day after day. "" # Baker repeatedly referenced King 's 51-year-old speech given to middle school students in Philadelphia six months before he was assassinated"	Y	1	2	N	N	s_gen 	LT
+155	NEWS	"chances to chastise the crown prince -- chastisement which would have come months before Khashoggi 's death. Instead, the collective dismissal of the women's mistreatment signaled to Mohammed"	Y	1	1	N	N	s_gen 	LT
+156	NEWS	"For one night, that would be enough. The returning rusher from last season 's 5-7 squad, Vavae Malepeai ran for 135 yards and a touchdown, while all-purpose"	N	2	2	N	N	s_gen 	LT
+157	NEWS	Denver in the opener in the likely absence of K.J. Wright. Carroll said Griffin 's play early added to the team's confidence he can get the job done if	Y	1	1	N	Y	s_gen 	LT
+158	NEWS	"Gardens.'' # Get The Weekender in your inbox: # The Globe 's top picks for what to see and do each weekend, in Boston and beyond"	N	2	2	N	N	s_gen 	LT
+159	NEWS	"growth in Ohio was 2.13 percent between July 2017 and July 2018. The nation 's job growth for the same period was only 1.65 percent. # "" So far"	N	2	2	N	N	s_gen 	LT
+160	NEWS	", rather than an annual appropriation dependent on Congress. Employees with the special counsel 's office are exempt from furlough. 70353381 Jefferson"	Y	2	1	N	N	s_gen 	LT
+161	NEWS	"the percentage had increased more than tenfold, to 3.6 percent. # The government 's announcement in May that it was significantly increasing separations because of the zero-tolerance policy triggered"	N	2	1	N	N	s_gen 	LT
+162	NEWS	"network. # The FTC's settlement, the largest privacy fine in the agency 's history, marks the most significant action yet against Facebook over a series of mishaps"	N	2	1	N	N	s_gen 	LT
+163	NEWS	"the club's devotion. # On Tuesday night, Carrasco felt all of baseball 's love. # During the fifth inning of the All-Star Game, Carrasco walked on"	N	1	1	N	N	s_gen 	LT
+164	NEWS	"23, 2019 in Washington, DC. Conway was asked about President Donald Trump 's abrupt departure from a Wednesday meeting with Democrats and his refusal to co-operate on legislation"	Y	3	2	N	N	s_gen 	LT
+165	NEWS	"of the ignorance and bigotry Leguizamo is trying to correct. "" # Erik Patterson 's dark comedy "" Handjob, "" on view at the Echo Theater Company, explores"	Y	2	3	N	N	s_gen 	LT
+166	NEWS	"and deepening racial divides, all of which became contentious points of debate during Trump 's first year in office. # Some marchers have described newfound political activism, even"	Y	1	2	N	N	s_gen 	LT
+167	NEWS	cover of Tim Hardin's'' Lenny's Tune'' lacks the original 's haunting sadness. # Advertisement # The folly of the project is truly laid bare	N	2	2	N	N	s_gen 	LT
+168	NEWS	"than others -- this week. # It started Monday, with the Gophers men 's basketball team handling Utah 78-69 at Williams Arena. Now, the Utes aren't"	Y	3	2	N	N	s_gen 	LT
+169	NEWS	"turned out that in an act of desperation, a paramedic had broken into Borden 's home that day, Nov. 8, through a doggie door. The ambulance crew"	Y	1	1	N	Y	s_gen 	LT
+170	NEWS	"landing a quad Salchow and falling on a quad toe. # Meanwhile, women 's skating in the United States -- once dominant -- continues to edge toward irrelevance at"	Y	1	1	N	N	s_gen 	LT
+171	NEWS	"decided to instead take up the matter at their January meeting. # City Council 's Budget & Effectiveness Committee endorsed four-year terms in a 3-2, party line vote,"	N	2	4	N	Y	s_gen 	LT
+172	NEWS	"70611402 # LOUISVILLE, Ky. -- Teacher protests have shut down Kentucky 's largest school district six times in recent weeks. The state's education chief said"	N	1	3	N	Y	s_gen 	LT
+173	NEWS	"Road # Matchup: Flowing Wells got its season back on track with last week 's 40-12 win over Amphi. Now, the Caballeros will now face an undefeated Paradise"	N	2	4	N	N	s_gen 	LT
+174	NEWS	prosecutors had conceded the bullet trajectory analysis of the shooting by a Deschutes County sheriff 's deputy and the Tri-County Major Incident Team was somehow flawed. They noted that the	N	4	1	N	N	s_gen 	LT
+175	NEWS	"Golden Eagles finally scored a basket nine minutes into the second half on Joey Hauser 's 3-pointer to make it 60-50. His brother, Sam Hauser, led the Golden"	Y	2	1	N	N	s_gen 	LT
+176	NEWS	thing in backing the players. But what is that really worth if the school 's leaders aren't willing to engage on the real reasons why? Posted!	N	2	1	N	N	s_gen 	LT
+177	NEWS	"with a Russian spy in 2013. She also had exclusive new details on China 's harassment of American spies. Last month, she was the first to reveal the"	N	1	1	N	N	s_gen 	LT
+178	NEWS	"Angels starter Jaime Barria (5-4, 6.36) in the first. The rookie 's ninth homer gave him 32 RBI and 46 runs scored. Francisco Lindor pushed the"	Y	2	2	N	N	s_gen 	LT
+179	ACAD	"rather than smoke, as if to ride off into the sky (the video 's theme of locomotion is jacked-up here). # This setting also underscores the music"	N	2	1	N	N	s_gen 	LT
+180	ACAD	"can yield intriguing results. # For example, in this issue, Martin Bergee 's factor analytic investigation into the construct of concert band performance offers a fresh and thought-provoking"	Y	2	3	N	Y	s_gen 	LT
+181	ACAD	". This constellation of meanings coheres in modernist scenes of writing, from the blot 's corporeal implications to the suggestion that authorship is a clandestine, even criminal, enterprise"	N	2	2	N	N	s_gen 	LT
+182	ACAD	"of the first Mangaisala landowners; fishing traditions in the past and present; fishermen 's beliefs see Bula 2001; dangers encountered at sea; the flooding of 1969,"	Y	1	1	N	N	s_gen 	LT
+183	ACAD	"penis, which conjoins the near with the far shore, is homologous with Geb 's cosmic member as well as with the rainbow-snake-penis Yulunggul, both of which conjoin ("	N	1	2	N	N	s_gen 	LT
+184	ACAD	"of the Fourth Amendment. # This analysis presents some interesting wrinkles for the Court 's existing contraband-only jurisprudence. Thus far, in cases involving drug-sniffing dogs, the Court"	N	2	3	N	N	s_gen 	LT
+185	ACAD	"newspaper keeps quiet about it. # These observations change dramatically in the New Year 's debate of 2013/14. The CSU paper "" Do not encourage poverty in the municipalities"	N	3	1	N	N	s_gen 	LT
+186	ACAD	"of India-ASEAN engagement 61, and it has since become a common feature in India 's foreign policy statements 13, 57. The Australian government has gone furthest, adopting"	N	1	5	N	N	s_gen 	LT
+187	ACAD	"evaluation to make specific recommendations of appropriate remedies.150 At the very least, an expert 's determination of whether a specific act of violence occurred could influence a custody recommendation;"	Y	2	1	N	N	s_gen 	LT
+188	ACAD	"achieve as easily-or could not achieve at all, legally or practically speaking-without a fiduciary 's assistance. This commitment to individual empowerment is consistent with republicanism's respect for individual"	N	2	1	N	N	s_gen 	LT
+189	ACAD	"Blackmun examined many constitutional passages in his intratextual quest, he conveniently omitted the Preamble 's explicit declaration that the protection of posterity was one of the purposes of adopting the"	Y	2	2	N	N	s_gen 	LT
+190	ACAD	"is, the system was designed to help undergraduates find useful resources without a librarian 's help. It was not designed for the needs of advanced researchers, who often"	Y	2	1	N	N	s_gen 	LT
+191	ACAD	"in Gibbons saga deviates from that in Partalopa saga, where the protagonist breaks Marmoria 's taboo against seeing her by means of a magic stone given to him by his"	Y	1	1	N	N	s_gen 	LT
+192	ACAD	"Pluto arrive in Saxland with a huge army, a bloody battle ensues with Margarin 's men, while his mother, the ogress Obscura, stands on the highest tower"	Y	1	1	N	Y	s_gen 	LT
+193	ACAD	"and substance. The importance of such choices is captured in the Roman historian Cato 's widely cited though perhaps apocryphal observation: "" When Cicero spoke, people marveled."	Y	4	6	N	N	s_gen 	LT
+194	ACAD	"the 1840s, he supported the Hungarian revolution in 1848, defending not only Hungary 's right to resist Austria, 101 but even Hungary's right to attack Austria and"	N	1	1	N	N	s_gen 	LT
+195	ACAD	"proceed.52 As we will see, the level of idiosyncratic volatility associated with a company 's stock is central to the event study methodology and the sharp spikes in such volatility"	N	2	1	N	N	s_gen 	LT
+196	ACAD	"supports who collaborate on an intervention plan, # * a focus on the student 's strengths that can be enhanced, # * an individualized plan to meet the needs"	Y	2	1	N	N	s_gen 	LT
+197	ACAD	"'s original readers.31 This kind of string is mentioned to similar effect in Joseph addison 's Spectator number 407, which features a lawyer who fiddles compulsively with a length of"	Y	2	3	N	N	s_gen 	LT
+198	ACAD	", 1476-1578. # Bickman, L. (1996). The evaluation of a children 's mental health managed care demonstration. Journal of Mental Health Administration, 23, 7-15."	Y	2	2	N	N	s_gen 	LT
+199	ACAD	"The novels, however, with their younger and wealthier implied audience, celebrate Nancy 's upper middleclass celebrity status while taking a didactic stance against fans' supposedly uncouth behavior"	Y	1	4	N	N	s_gen 	LT
+200	ACAD	"a proper effort to preserve the debtor's assets for all creditors and the trustee 's overreaching attempt to increase the debtor's assets to benefit "" a specific class of"	Y	2	2	N	N	s_gen 	LT
+201	ACAD	", and in repression it continuels to ferment "" (p. 395). Brown 's view accords with the suppressed eroticism I address below in "" Wine of Cyprus."	Y	1	1	N	N	s_gen 	LT
+202	ACAD	"however, teacher-reported relationship quality was not associated with these outcomes. Moreover, children 's perceptions of the quality of relationships in the classroom community were associated with greater intrinsic"	Y	1	1	N	N	s_gen 	LT
+203	ACAD	", 42 share interesting and overlooked similarities to the Islamic terrorist organizations that dominate today 's suicide terrorism. Both groups functioned like cults, dependent on an all-encompassing fanaticism and"	N	1	2	N	N	s_gen 	LT
+204	ACAD	"suggest to readers that shopping is a gateway to adventure. # Furthermore, Nancy 's economic and social privilege allows her to assist crime victims while serving as a role"	Y	1	4	N	N	s_gen 	LT
+205	ACAD	"of the musicians who called on Pres for help. # Certainly, Johnny Mercer 's lyrics are among the best ever written. Mercer was not only steeped in the"	Y	2	1	N	Y	s_gen 	LT
+206	ACAD	"to our understanding of China's state-society relationship. As long as the authoritarian regime 's survival relies on popular support, its excessive use of censorship could be counter-productive."	N	3	1	N	N	s_gen 	LT
+207	ACAD	"any other visual acknowledgment of it are used only as referential models. The image 's photo-realistic accomplishment is to be mistaken for a genuine and authentic photographic visual representation,"	N	2	2	N	N	s_gen 	LT
+208	ACAD	"book with statistics and song lyrics, making the reader think through not only DeShawn 's story, but the societal inequities that produced his circumstances as well: # Sixteen"	Y	1	1	N	N	s_gen 	LT
+209	ACAD	"30 cents sharp. Listeners were clearly more tolerant of pitch deviations in the vocalist 's performance, particularly in the sharp direction.Interestingly, mean ratings for even the largest alterations"	Y	2	1	N	N	s_gen 	LT
+210	ACAD	"like other male citizens, regretting the controversy that Johnny Hallyday's and Frank Alamo 's deferment of military service has already caused (27; see also Pluvinage Paternostre 78"	Y	2	1	N	N	s_gen 	LT
+211	ACAD	". The motivation for action, however, may not entirely originate from the person 's inner psyche. When following a program of self-cultivation, where does the curriculum come"	Y	2	2	N	N	s_gen 	LT
+212	ACAD	", treatment, and recovery services. "" 369 Spearheaded by the Senate health committee 's top Democrat and Republican, Senator Patty Murray (D-WA) and Senator Lamar Alexander"	N	4	4	N	N	s_gen 	LT
+213	ACAD	"predicated on the rejection of providential history, but it also depended on providential history 's racial and moral teleologies to provide it with its persuasive weight. Early scientific historians"	N	2	4	N	N	s_gen 	LT
+214	ACAD	"those of father-child interactions, and the father's influence is tied to the child 's fate. On this, Jung writes: # If we normal people examine our"	Y	2	1	N	N	s_gen 	LT
+215	ACAD	the heart of the law of representation that would conventionally seek to reproduce the nation 's story in the background- the civil war-in the guise of the character's story in	N	2	1	N	N	s_gen 	LT
+216	ACAD	"self-imposed penalties of a $5,000 fine and scholarship reductions across several programs, including women 's soccer, softball, baseball, men's and women's basketball, and football"	Y	1	1	N	N	s_gen 	LT
+217	ACAD	"H. Butler, 1841. # Hitchcock, Edward. 1842. Remarks upon Mr. Murchison 's anniversary address before the London Geological Society. The American Journal of Science and Arts"	Y	2	2	N	N	s_gen 	LT
+218	ACAD	"them to exercise their knowledge in a setting of learned conversation, discerning one painter 's hand from another.79 Another game of identification that these early collectors played was naming the"	Y	2	1	N	N	s_gen 	LT
+219	ACAD	"one of the most powerful families in the Cherokee Nation. According to James Hicks 's Cherokee genealogy, her first cousin was James Vann, the wealthy Cherokee plantation owner"	Y	2	2	N	N	s_gen 	LT
+220	ACAD	"interest must be given in exchange for equivalent new value contributed in money or money 's worth. Judicial discretion in determining what is "" new value "" and its equivalence"	N	1	1	N	N	s_gen 	LT
+221	ACAD	makes a striking contrast to the sociopathic relationships between father figures and sons in McCarthy 's earlier works such as Outer Dark (in which a father watches his incest-born son	Y	1	2	N	N	s_gen 	LT
+222	ACAD	", at 56. # 161. Id. Recall that knowledge of the preborn child 's biological status as a living member of the human family was widespread at the time"	Y	3	2	N	N	s_gen 	LT
+223	ACAD	"# by Emery P. Dalesio, Associated Press # RALEIGH, N.C.? North Carolina 's prized public universities could be the biggest losers as state leaders defend a new law"	N	2	3	N	N	s_gen 	LT
+224	ACAD	improper use of the SID to justify granting car loans incommensurate to the subprime borrower 's ability to pay has negative consequences that expand beyond the subprime auto loan industry to	Y	3	1	N	N	s_gen 	LT
+225	ACAD	"ethical intuitionism. Finally, my reading seems to wrongly import the methodology of Kant 's theoretical philosophy into his practical philosophy. # At this stage, I think I"	Y	1	2	N	N	s_gen 	LT
+226	ACAD	organizational commitment is multifaceted and that commitment represents both an attitude that describes an individual 's linkage to the organization and a set of behaviors by which individuals manifest that link	Y	2	4	N	N	s_gen 	LT
+227	ACAD	relegating the rest to the level of modes.30 # Des Bosses thus can use Leibniz 's monads to argue for a received opinion on extension as a real accident. As	Y	1	1	Y	Y	s_gen 	LT
+228	ACAD	"prosecute turns on factors such as' the strength of the case, the prosecution 's general deterrence value, the government's enforcement priorities, and the case's relationship"	N	2	3	N	N	s_gen 	LT
+229	ACAD	"in 1901, which is repeated to us mostly in distant third-person style, Margaret 's voice is strangely absorbed by Jenny's, whose emotions merge narratively and expansively with"	Y	1	1	N	Y	s_gen 	LT
+230	ACAD	"much as to the law. After her husband's death and despite his family 's demands, Lizzie refuses to relinquish the diamonds he placed in her hands; the"	N	2	1	N	N	s_gen 	LT
+231	ACAD	"75, at 28. # 106. This evidence is contrary to the Roe Court 's erroneous assertion that little legislative history remained of the adoption of mid-nineteenth-century antiabortion statutes."	Y	3	2	N	N	s_gen 	LT
+232	ACAD	"Kautiainen et al., 2005; Lanningham-Foster et al., 2006). # Children 's increased use of technology has been linked to reduced leisure-time PA since these sedentary activities"	Y	1	4	N	N	s_gen 	LT
+233	ACAD	suggest that he and his viewers could vicariously achieve it in art. # Vallotton 's exploration of the ethics of vision reaches a climactic conclusion at the end of La	Y	1	1	N	N	s_gen 	LT
+234	ACAD	"from this database. A retrospective analysis was performed in July 2016 using the hospital 's prospectively collected computerized patient file. In the absence of recent data, patients'"	N	2	5	N	N	s_gen 	LT
+235	ACAD	"the so-called Axis of Resistance. However, this is not true of the Hizbullah 's intervention narrative as a whole. First, contrary to the realist tradition, which"	Y	2	5	N	N	s_gen 	LT
+236	ACAD	"affairs of another civilized nation unless to redress an imbalance caused by a third party 's prior intervention within an internal struggle for self-government, yet intervening in barbarians' affairs"	N	3	2	N	N	s_gen 	LT
+237	ACAD	", is wisdom, the love of which constitutes the philosophical enterprise.12 One of Aristotle 's most lyrical and famous passages both describes the enterprise and provides the criteria for it"	Y	3	5	N	Y	s_gen 	LT
+238	ACAD	"). In 1991, AACSB instituted a Mission-driven accreditation process, whereby the association 's new guiding principle became the acceptance, and even encouragement, of diverse paths to"	N	2	3	N	N	s_gen 	LT
+239	ACAD	""" We have long recognized that considerable weight should be accorded to an executive department 's construction of a statutory scheme it is entrusted to administer, and the principle of"	N	3	5	N	N	s_gen 	LT
+240	ACAD	"'s nascent feminism. Nineteenth-century Canadian Indian policy and state attitudes had undermined Indigenous women 's political capital, leaving them underrepresented in the principal Indigenous political organizations. As early"	Y	2	2	N	N	s_gen 	LT
+241	ACAD	", during an unfolding power stroke, we imagine that the resisting force weakens ClpX 's grip on the Gly12 sequence, resulting in ineffective power strokes that fail to move"	N	1	1	Y	N	s_gen 	LT
+242	ACAD	"the prize draws Ajinomoto ran for Castle in the Sky contained goods branded with Miyazaki 's original sketches for the film, they were not otherwise cognitively associated with its content"	Y	1	2	N	N	s_gen 	LT
+243	ACAD	"statute from a Commerce Clause perspective will likely spur other states to follow in Colorado 's footsteps.176 To date, three other states have promulgated their own notice laws. Of"	N	1	1	N	N	s_gen 	LT
+244	ACAD	below conform to the shift in emphasis traced in Malina's summary. A character 's stepping out of a fictional world and into the world of the author (or	Y	2	13	N	N	s_gen 	LT
+245	ACAD	"systems considerably more potent ""). This underscores a recurring theme that the military 's capabilities have more to do with advances in information technology than with advances in the"	N	2	1	N	N	s_gen 	LT
+246	ACAD	"individual factors in the context of participatory media, specifically for perceptions of a journalist 's interactivity on Twitter, one of the most popular social-networking platforms. Some argue the"	Y	2	1	N	N	s_gen 	LT
+247	ACAD	's unit in Afghanistan knew why: He was accused of stealing a female soldier 's panties. Johnson's aspirations to a military career were over. Now he faced	Y	3	1	N	N	s_gen 	LT
+248	ACAD	"that maximize the value of the firm's expected future cash flows. The framework 's effectiveness, however, depends in part on the precision with which the capital market"	N	2	1	N	N	s_gen 	LT
+249	ACAD	that a portrait of the writer wouldn't be entirely out of place on Machko 's walls. # We wandered up to a street of restaurants and clubs that run	N	1	1	N	Y	s_gen 	LT
+250	ACAD	"dream complete with vivid, compelling, dreamlike, and surreal imagery akin to Carter 's own (and strongly visual) imaginary. The filmmaker foregrounds the darker side of"	Y	1	2	N	N	s_gen 	LT
+251	ACAD	"patient "" (Beauchamp and Childress 2013, 108), and "" This physician 's temporary act of nondisclosure is morally justified, although beneficence has, temporarily, received"	Y	2	2	N	N	s_gen 	LT
+252	ACAD	"individual's and organization's worldview. "" 84 # North Dakota voters agreed with Hamilton 's assessment, and overwhelmingly rejected the amendment by a roughly 2-1 margin. Thus,"	Y	1	1	N	N	s_gen 	LT
+253	ACAD	"the idea that the linkages between the open market operations conducted by a central bank 's trading desk, on the one hand, and the objectives of monetary policies,"	N	3	2	N	Y	s_gen 	LT
+254	ACAD	"analysts persist in feeling a certain unease, even at a time when the country 's power appears to be rising. As Karaganov puts it: # Today Russia is"	N	2	1	N	N	s_gen 	LT
+255	ACAD	"is markedly consistent across all the examples.38. For a complete map of the pagoda 's composition from sacred characters, refer to the associated digital project that animates the sequential"	N	2	1	N	N	s_gen 	LT
+256	ACAD	"'s Eat Pray Love (2006), or, more seriously, Primo Levi 's first-person witness in Survival in Auschwitz (1947), or, closer to home"	Y	2	2	N	N	s_gen 	LT
+257	ACAD	"using this data set will, most likely, include ORCID data because of TAMU 's plans to actively promote ORCID. Additionally, a TAMU Libraries team (including the"	Y	1	1	N	N	s_gen 	LT
+258	ACAD	hand prosthesis. Image retrieved from Wikimedia Commons **33;72674;TOOLONG # Figure 3) Ambroise Fare 's illustration of the' Le Petit Lorrain prosthetic hand published in 1575 in his book	Y	2	1	N	N	s_gen 	LT
+259	ACAD	"Hiroko is myself. "" 13 Nagata had feminist sensitivities in her pursuit of women 's autonomy in the leftist movement (? tsuka Kanojo tachi 16, Oguma vol. 2"	Y	1	1	N	N	s_gen 	LT
+260	ACAD	of the car.12 The device tracks a borrower's car payments and disables the car 's ignition if the borrower defaults or the lender does not receive a payment within a	N	2	1	N	Y	s_gen 	LT
+261	ACAD	"argument makes little sense in relation to lightweight offset plates.43 Notwithstanding this focus on women 's physical incapacity, female press-machinists themselves tended not to speak of issues related to lifting"	Y	1	2	N	N	s_gen 	LT
+262	ACAD	"relate such "" qualitative "" elements to scan-sion, but i will argue that Frost 's poetry demands just such a qualitatively, performance inflected scansion; it rethinks metrical structure"	Y	1	1	N	N	s_gen 	LT
+263	ACAD	"? To what extent did Wilson's poor health and lengthy convalescence affect the government 's handling of the report? Such questions, among others, demand informed answers in"	N	2	4	N	N	s_gen 	LT
+264	ACAD	"passage, and deaf where we past; (ll. 87-90) # The dactyl 's return brings with it the resurgence in the poem of two motifs from the opening"	N	2	1	N	N	s_gen 	LT
+265	ACAD	"a slave-trader. Because the Muniers are free people of color, much like Dumas 's own father had been in colonial Saint-Domingue, they are subject to cruel treatment by"	Y	1	2	Y	N	s_gen 	LT
+266	ACAD	# The study also coded all cases in the dataset for each Federal Circuit judge 's decision regarding the merits of injunctive relief. This was done to evaluate whether there	Y	4	1	Y	N	s_gen 	LT
+267	ACAD	"citizens institutionally more competitive. # In recent times, knowledge' roles and organization 's understanding for performance became clearer, whereas, beforehand, managerial stress was positioned on"	N	1	1	N	N	s_gen 	LT
+268	ACAD	"the process is likely to improve the quality of individual assessments and strengthen the program 's credibility (NRC, 2014). IRIS assessments are considered the U.S. Government's"	N	2	1	N	N	s_gen 	LT
+269	ACAD	: Rights Afforded to Aliens # Scalia-style originalism revolves around the importance of a law 's historical origins and the original public meaning of the law's text at the time	N	2	2	N	N	s_gen 	LT
+270	ACAD	"2005) (Ginsburg, J., dissenting). Justice Souter joined Justice Ginsburg 's dissent and wrote separately to note that he did not want to "" prejudge a"	Y	2	1	N	N	s_gen 	LT
+271	ACAD	and figurative states of affective and cognitive impression with viewed fictional characters. Baba Yaga 's presence and popularity on Russian and American television allows us to explore how forming such	Y	2	1	N	N	s_gen 	LT
+272	ACAD	"The ocean is presented as incommensurable and unpredictable with an implacable overwhelming might. Lee 's presentation of the sea storm is made of CG rain, dark CG skies,"	Y	1	5	N	N	s_gen 	LT
+273	ACAD	"by culture, or superstructure. # Drawing on nonsimultaneous and simultaneous contradictions, Bloch 's multilayered dialectic is fourfold. First, nonsimultaneous contradictions manifest themselves in two ways:"	Y	1	2	N	N	s_gen 	LT
+274	ACAD	"alien population and to express its endorsement of the law, the newspaper reported Congress 's consideration of the law under the heading "" Important to Aliens, "" saying:"	N	1	1	Y	N	s_gen 	LT
+275	ACAD	"of parent ratings in predicting those criterion variables beyond that predicted by the school district 's academic screening tool used at kindergarten registration. To our knowledge, no studies have"	N	3	3	N	N	s_gen 	LT
+276	ACAD	", and act according to one's own experience. After all, given Foucault 's account, how could any individual resist the very power that has fabricated him or"	Y	1	1	N	N	s_gen 	LT
+277	ACAD	"indifferent, so we are right back at unanimity.261 # Finally, Kenneth J. Arrow 's much more technical work on democracy and voting made the same opening assumption about the"	Y	3	4	N	N	s_gen 	LT
+278	ACAD	"popular culture, journalists sought to destigmatize both the trivialness of the incident and Chan 's boorish behavior by making the Bus Uncle story more entertaining for those who would not"	Y	1	2	N	N	s_gen 	LT
+279	WEB	"to an agreement. # In theory, that should achieve almost all of Boehner 's goals. The only way it doesn't is if he actually wants to endanger"	Y	1	1	N	N	s_gen 	OT
+280	WEB	run out. # Robert Glennon captures the irony -- and tragedy -- of America 's water crisis in a book that is both frightening and wickedly comical. From manufactured	N	1	2	N	N	s_gen 	OT
+281	WEB	"The report also analyzed several alternative scenarios that could influence the economic competitiveness of America 's remaining operational coal fleet, including implementation of a price on carbon dioxide emissions and"	N	1	4	N	N	s_gen 	OT
+282	WEB	to the weather map and danced a Latin beat while Delgado reported on the day 's high temperatures. # Hanks' infamously awkward Doral detour -- the You Tube clip	N	2	2	N	N	s_gen 	OT
+283	WEB	"of undeniable worth or they can make no claim to store value. # Douthwaite 's view was that exchange currencies, once established, need no backing. They have"	Y	1	1	N	N	s_gen 	OT
+284	WEB	"As far as eye could reach there were the tiny sharp prints of a squirrel 's foot, and they led, not down the hillside to the trapper's hut"	Y	2	1	N	Y	s_gen 	OT
+285	WEB	"academy throughout the years. # Shelby Police Officer Keith Bridges said with the academy 's 16th session, one goal is to continue creating personal relationships with officers and the"	N	2	2	N	N	s_gen 	OT
+286	WEB	"'s musical education began from the womb, where she was audience to her mother 's concert piano and her father's folk guitar. Originally from Dunedin, Emmanuelle is"	Y	2	2	N	Y	s_gen 	OT
+287	WEB	"the commerce clause in the new structure of power. # Therefore, although Levinson 's book contains a lucid and accurate description of the costs incurred by the Framers'"	Y	1	1	N	Y	s_gen 	OT
+288	WEB	articles on Discerning the World can be updated. # It has come to DTW 's attention that Kobus van Rensburg from Spirit Word Ministries feels it absolutely necessary to pray	Y	1	1	N	N	s_gen 	OT
+289	WEB	"in August that it was working on a deal with Wanxiang Group Corp., China 's largest auto-parts maker, for financing in exchange for a majority ownership stake. #"	N	1	3	N	N	s_gen 	OT
+290	WEB	"will recognize the importance of Palestine and who its enemy is, "" the kindergarten 's director said. # The children were dressed up in uniforms of Jihad's armed-wing"	N	2	1	N	N	s_gen 	OT
+291	WEB	", you play against 11 top players. "" # It will be Jose Mourinho 's 100th Champions League match as a manager but Mancini insisted the focus should not be"	Y	2	3	N	N	s_gen 	OT
+292	WEB	were still too many people alive for him to write it. a * Nick 's own education in those earlier matters had been ac- 464 FATHERS AND SONS quired in	Y	1	2	N	N	s_gen 	OT
+293	WEB	"let y be the distance in CSS pixels from the top edge of the image 's top border, if it has one, or the top edge of the image"	N	2	2	N	N	s_gen 	OT
+294	WEB	"Queen asked her why there were suddenly so many flowers Khujjuttara fell at the Queen 's feet and confessed her theft. When Samavati forgave her magnanimously, Khujjuttara told her"	Y	2	1	N	N	s_gen 	OT
+295	WEB	"different factions. There is a German and American side, each with the faction 's respective weapons. When playing with three or four players, they will be split"	N	2	2	N	N	s_gen 	OT
+296	WEB	"n't start Saturday vs. the Tigers. He injured his left shoulder in last week 's win over Ole Miss, but coach Mark Richt said Burnette likely will travel with"	N	2	4	N	N	s_gen 	OT
+297	WEB	"for anyone harboring homosexuals. However, no legislative action has resulted. The Gambia 's existing laws already criminalize homosexual sex acts, but current laws do not include the"	N	2	2	N	N	s_gen 	OT
+298	WEB	"83rd birthday; we talked about "" Bumble-Ardy, "" the trouble with some children 's literature and which among his own books is his favorite. Below, condensed and"	Y	2	1	N	N	s_gen 	OT
+299	WEB	"that heterozygosity in trans -acting factors that interact with CPRs may instead shape the CPR 's role in expression variation, perhaps leading to constraint in this region. From a"	N	2	1	N	N	s_gen 	OT
+300	WEB	- A Wisconsin man who had been accused of domestic violence and slashing his wife 's tires took a gun into the spa where she worked Sunday and shot seven women	Y	2	1	N	N	s_gen 	OT
+301	WEB	somebody who's very serious to pull off a character like Herman Munster from Gwynne 's series The Munsters. It's not simple to play the goof. Fred was	N	1	1	N	N	s_gen 	OT
+302	WEB	"Panetta has been traveling. # Q As a sort of a follow-up to Ben 's question, does the President see this in general as an unwelcome distraction at a"	Y	1	1	N	N	s_gen 	OT
+303	WEB	"? "" Reverend Shaw asked hopelessly, his hand still moving tenderly through John Michael 's hair. # As Helena listened to Myka's words, she felt as if"	Y	2	1	N	Y	s_gen 	OT
+304	WEB	"two frontcourt starters. # It's really not our intent to dwell on Utah 's road woes. The Jazz, though, don't leave much choice thanks to"	N	1	2	N	Y	s_gen 	OT
+305	WEB	"India, "" Gourlay said. # Money-spinning tours are even more important while Chelsea 's potential is limited by its 41,000-capacity home stadium with no viable new site to develop"	N	1	1	N	N	s_gen 	OT
+306	WEB	"looked to initiate and facilitate a military conflict somewhere in the world, since Eisenhower 's years in the White House till present time, under the pretext that war is"	Y	1	1	N	N	s_gen 	OT
+307	WEB	"thoughts, to turn over the accomplishments and non-accomplishments and make peace with the day 's choices. Instead there was romping. I'm afraid I was not particularly patient"	N	2	1	N	N	s_gen 	OT
+308	WEB	"I am not aware of any extra fees, though. Just bullet + hangman 's work.) # These kind of fees are outrageous, and I would expect"	Y	1	1	N	N	s_gen 	OT
+309	WEB	"fathers death, then walking out on Richard, followed by Aadam's and Dan 's inability to commit, but that was just the beginning. Tapping into my source"	Y	1	1	N	N	s_gen 	OT
+310	WEB	", "" Eric, who processed up the main aisle arm in arm with Cal 's mother before taking a seat in the front row? clearly indicating an imaginary spousal"	Y	1	1	N	Y	s_gen 	OT
+311	WEB	"both regret and resentment to many of these same aides who blame the Bush administration 's incompetence, Manichean worldview and contempt for diplomacy for the crises they face in the"	N	3	1	N	N	s_gen 	OT
+312	WEB	the brain that wouldn't be easy to detect by someone other than the dog 's owner who was intimately familar with the dog and his behaviour to catch any subtle	Y	2	1	N	Y	s_gen 	OT
+313	WEB	"he "" were an outer force, the Buddha taught that temptation arises in one 's own heart and mind because of one's own defilements. # Passed is the"	Y	1	2	N	Y	s_gen 	OT
+314	WEB	"again -- may seem like a hopelessly retrograde, romantic exercise: nostalgia for Thoreau 's woodland ambles. But the need is urgent. The decline of walking has become"	Y	1	2	N	Y	s_gen 	OT
+315	WEB	"start her van. She told him that the boy had a 1 p.m. doctor 's appointment. # While working on the van, Pleasant asked the boy how he"	Y	1	1	N	N	s_gen 	OT
+316	WEB	of this below the waist baby weight. OR really it could be Trader Joe 's chocolate chips... # I just want to say that lower weights/higher reps aren't	Y	2	2	N	N	s_gen 	OT
+317	WEB	"in the (mostly) vanished world of colonialism, imperialism, socialism and people 's democracy. # He is also a clan leader, and in tribal North Africa"	Y	1	1	N	N	s_gen 	OT
+318	WEB	world in the Deep South of the 1940s has pretty much shrunk to her family 's kitchen and the companionship of wise and patient mammy Bernice (Ethel Waters) and	Y	2	1	N	Y	s_gen 	OT
+319	WEB	"Couch would be the title, and she knew it would be about her mother 's transformation. Well, she nailed one of those things. This is an oddly"	Y	2	1	N	N	s_gen 	OT
+320	WEB	"regular season. # Former Texas Tech coach Spike Dykes was an assistant on Royal 's staff for five years. # "" He didn't claim to invent football but"	Y	1	1	N	N	s_gen 	OT
+321	WEB	"of government corruption. Look it up. # not true, check out Obama 's donations to charity versus Romeny's. Liberals talk a good game, but when"	Y	1	1	N	N	s_gen 	OT
+322	WEB	"chilly glinting hill. He went in his ice-bound boots like a man on fishmonger 's slabs. "" He wagged his bag like a frozen camel's hump, dizzily"	Y	1	1	N	N	s_gen 	OT
+323	WEB	"in the clear is a pretty strong indication that nothing illegal happened. Given Suh 's past transgressions, the league would not have hesitated to at least hand out a"	Y	1	2	N	N	s_gen 	OT
+324	WEB	"people's stories. You can step into other people's lives, other people 's existences. And when that happens, your own world expands. My grandfather,"	Y	2	1	N	N	s_gen 	OT
+325	WEB	"number historically, but once again, when you factor in the volume of Favre 's opportunities, it looks less impressive, especially when compared to others. # Favre"	N	1	1	N	N	s_gen 	OT
+326	WEB	"replace "" politics "" with the word "" morality "". # of course morality 's purpose is, to an extent, to control behavior. That's hardly an"	N	1	1	N	N	s_gen 	OT
+327	WEB	will update the post if and when we hear back. # Update: Apple 's Tom Neumayr responded with this statement: # Our customers want to use Siri to	N	1	2	N	Y	s_gen 	OT
+328	WEB	"an extremely large accomplishment and it may have seemed like the pinnacle of any climber 's career. Well, over the past few years Ben has set his sights on"	Y	2	1	N	N	s_gen 	OT
+329	WEB	", share, and explore the planet. # TAN! When my friend Marie 's son was born in the late 1980's, autism spectrum disorder affected 1 in"	Y	3	1	N	Y	s_gen 	OT
+330	WEB	"man. It is part of the canon that if Bond goes into a woman 's room, it is to sleep with her, to kill her, or to"	Y	2	1	N	Y	s_gen 	OT
+331	WEB	"after 638725 California 's Prop 37: What Do You Think? # Prop 37, like most propositions"	N	1	2	N	Y	s_gen 	OT
+332	WEB	""" Why didn't you do a joke about hookers? "" and his girlfriend 's son to say, "" You should say you love Transformers. "" # Screams"	Y	2	1	N	Y	s_gen 	OT
+333	WEB	"God must be perfectly good. This is one of the reasons I find Anselm 's argument more compelling then the the argument from design, the cosmological argument, and"	Y	1	1	N	N	s_gen 	OT
+334	WEB	"the property had an FMV of $60,000, two-thirds of which is includable in John 's estate. Jim figures his basis in the property at the date of John's"	Y	1	1	N	N	s_gen 	OT
+335	WEB	"some users switch to a DVD-only plan, that could put Netflix back under Sony 's cap and bring the studio's films like "" The Social Network "" and """	N	1	1	N	N	s_gen 	OT
+336	WEB	", was a commercial pilot, and the family lived in different countries throughout Bale 's childhood, including England, Portugal, and the United States. Bale acknowledges the"	Y	1	1	N	N	s_gen 	OT
+337	WEB	"these longitudinal profiles can be observed by means of fluorescence telescopes placed over the Earth 's surface, orbital detectors are more suitable for neutrino observations owing to their much larger"	N	2	1	N	Y	s_gen 	OT
+338	WEB	use their other hand to pull the lever for a president who is Planned Parenthood 's best friend and an enemy of the sacred institution of marriage. I think of	N	2	2	N	N	s_gen 	OT
+339	WEB	"'d rather see them go with an LMD, though I wonder, given Coulson 's popularity, if there's any thought to turning him into the Vision. #"	Y	1	1	N	N	s_gen 	OT
+340	WEB	"U.S. Attorney John Bates said he was not certain whether his office would appeal Bryant 's order. # The new regulations, implemented April 22, prohibit individuals from exhibiting"	Y	1	1	N	N	s_gen 	OT
+341	WEB	"and to obtain results here, "" he said. # The co-owner of Russia 's leading independent producer OAO Novatek, Gennady Timchenko, told Forbes magazine's Russian edition"	N	1	3	N	N	s_gen 	OT
+342	WEB	"the Senate, however, I do not share what I understand to be Levinson 's view that the outcome of presidential elections should necessarily be governed by the nationwide popular"	Y	1	1	N	N	s_gen 	OT
+343	WEB	pickup is owned by Derwood-based Garey Construction Inc. Shipley said investigators from his agency 's CRASH Team and Commercial Vehicle Enforcement Unit were still working to determine if the malfunctioning	N	2	2	Y	N	s_gen 	OT
+344	WEB	"time now, and I'm still skeptical he'll get elected, but Obama 's success and ideas are slowly giving me hope. I just turned 18 and the"	Y	1	1	N	N	s_gen 	OT
+345	WEB	"enough to see any improvement. "" # Smelling blood in the water at Wyeth 's setback other posters piled on. "" No study exists showing any antidepressant including Pristiq"	Y	1	1	N	N	s_gen 	OT
+346	WEB	"decision. Well, the decision was overturned... there is some justice and Spence 's efforts are rewarded. # FBS football begins on August 30 -- but Las Vegas"	Y	1	1	N	N	s_gen 	OT
+347	WEB	skills on their resume can also help increase their chances of being found via Monster 's semantic search. # While semantic search makes it easier for job seekers to find	N	1	2	N	N	s_gen 	OT
+348	WEB	"'s licenses. # The stadium agreement "" expressly authorize the sale of stadium builder 's licenses and include the proceeds of any sale in the project budget, "" the"	Y	2	1	N	N	s_gen 	OT
+349	WEB	But -- three everyone else's. # Well I mean I read Melissa Gilbert 's book and it seems like there was tons going -- missed out on one about	Y	2	1	N	Y	s_gen 	OT
+350	WEB	"there's nothing new about dominant/submissive scenarios in women's fiction or in real-life women 's fantasies. Here's why: Submission is a primal urge, likely linked to"	Y	2	1	N	N	s_gen 	OT
+351	WEB	"Suh chased down a scrambling Cutler on the play in question, grabbed the QB 's sleeve, then slammed him to the turf as Cutler tried to spin free."	Y	2	1	N	N	s_gen 	OT
+352	WEB	"is to put quality talent around him. In a perfect draft, the Cleveland 's first three selections would be (in no order): running back, wide"	N	2	3	N	N	s_gen 	OT
+353	WEB	: Lots. Look how CK put his receivers in position for YAC. Smith 's passes are almost always slow to the WR and mis placed. CK hits them	Y	1	1	N	N	s_gen 	OT
+354	WEB	"of this comparison? # "" Regulators are expected to approve Florida Power &; Light 's request to lower its fuel charge for customers next year because of lower projections for"	N	1	1	N	N	s_gen 	OT
+355	WEB	defenders for a 68-yard return that set up the score. # Jones started Cincinnati 's big third quarter by stripping Ahmad Bradshaw of the ball at the Cincinnati 14-yard line	N	1	3	N	N	s_gen 	OT
+356	WEB	"and Mary for the love of the King. Initially, Mary wins King Henry 's favor and becomes his mistress, bearing him two illegitimate children. But Anne,"	Y	2	1	N	N	s_gen 	OT
+357	WEB	's stable image built up by President Nursultan Nazarbayev. # Exit polls after Sunday 's election in the vast Central Asian state put the long-serving leader's Nur Otan party	N	1	1	N	N	s_gen 	OT
+358	WEB	about plagerism. Do yourselves a favor? Find out just how well Deval Patrick 's 1st year in office has been up there in Mass. Maybe that's why	Y	2	2	N	N	s_gen 	OT
+359	WEB	one here had anything to do with that. No one involved in Mary Kerwin 's campaign even knows who that group in Lansing is. Equally disturbing to me was	Y	2	1	N	N	s_gen 	OT
+360	WEB	"As Ron Paul has demonstrated time and time again, then when you attack people 's freedom then don't be surprised at all if they begin resisting... # The"	Y	1	1	N	N	s_gen 	OT
+361	WEB	is ready. # I think a lot of this has to due with Dixon 's value on special teams and who else they would have to deactivate to get Jacobs	Y	1	1	N	N	s_gen 	OT
+362	WEB	. There are also complications in the relationship when Charlie has an affair with Chelsea 's best friend). Stacy Keach (who plays Chelsea's father) and John	Y	1	2	N	Y	s_gen 	OT
+363	WEB	"years ago, lashed out anew in our day to exact vengeance reminiscent of Dante 's Inferno! Not only Ground Zero but also Manhattan in its entirety is hallowed ground"	Y	1	1	N	N	s_gen 	OT
+364	WEB	the season opener at Stegeman Coliseum. # Generally the fourth year of a coach 's tenure is thought to be a make-or-break time in the ruthless world of modern college	Y	2	1	Y	N	s_gen 	OT
+365	WEB	"and national-title implications, but a few more intriguing matchups have emerged. This week 's Top 10: biggest games of the second half of the season. # 1"	N	2	2	N	N	s_gen 	OT
+366	WEB	in salary arbitration next season. Some media outlets have suggested the combination of Pence 's big salary and his late-season struggles at the plate might prompt the Giants to consider	Y	1	2	N	N	s_gen 	OT
+367	WEB	"Jeffrey Symynkywicz, a minister and dedicated Springsteen fan, shows us that Bruce Spingsteen 's enduring importance stems largely from the rich spiritual themes that run throughout his albums."	Y	2	2	N	N	s_gen 	OT
+368	WEB	"News with Mitt Romney saying "" let them lose their homes "" in Mitt Romney 's response to mortgage help. # Mitt Romney Focuses on Housing Crisis is an example"	Y	2	1	N	N	s_gen 	OT
+369	WEB	"and respectable of others unless agitated, hungry or provoked. # According to Medusa 's handler and Edge of Hell's general manager, Larry Edgar, "" We try"	Y	1	1	N	N	s_gen 	OT
+370	WEB	"the song, "" Teddy Boy "" about John. A teddy boy was England 's version of a rebellious tough guy or what we used to call juvenile delinquents here"	N	1	6	N	N	s_gen 	OT
+371	WEB	"in due course. One of the terrorists in an abusive rant also derided Darwin 's theory of evolution and, if it were true, which he also asserted was"	Y	1	3	N	Y	s_gen 	OT
+372	WEB	". We also invite experts to talk about their work. Combined with Jeff Wood 's The Other Side of the Tracks, the Half-Mile Circles blog is an opportunity for"	Y	2	6	N	Y	s_gen 	OT
+373	WEB	". There, a crew sets to work installing a play pump near a children 's play area, boring 40 meters down until they hit the fresh water table below"	Y	2	2	N	N	s_gen 	OT
+374	WEB	159349 Paseo May Not Be on Ballot # Albuquerque 's bond issue for the I-25/Paseo del Norte interchange may not appear on the November ballot	Y	1	2	N	N	s_gen 	OT
+375	WEB	"GDP. Having access to information helps people help themselves. The video in Bruce 's post helps put a face to some of those people, and a window into"	Y	1	1	N	N	s_gen 	OT
+376	WEB	a global audience and she deserves it. A strong dance background lends to Shiva 's truly unique style of teaching. She is a devoted activist who supports many charities	Y	1	5	N	N	s_gen 	OT
+377	WEB	"and Mary for the love of the King. Initially, Mary wins King Henry 's favor and becomes his mistress, bearing him two illegitimate children. But Anne,"	Y	2	1	N	N	s_gen 	OT
+378	WEB	jump-start the economy and sustainably boost employment and personal income may seem like a politician 's dream policy. But the repeated failure of these short-term interventionist policies to deliver the	Y	2	2	N	N	s_gen 	OT
+379	WEB	"in 2013, Human Rights Watch said in a letter to Clinton today. Women 's rights are increasingly at risk in the run-up to the scheduled drawdown of international troops"	Y	1	1	N	N	s_gen 	OT
+380	WEB	"company did discuss partnering with Hipstamatic, but denies the discussions were related to Instagram 's launch.) # And in late January of 2012, multiple sources confirm that"	N	1	1	N	N	s_gen 	OT
+381	WEB	"country and the 3,200 meters in track last fall before finishing third at this year 's region meet (16:09). Tyler Stahl was the runnerup at the Sunshine Athletic"	N	2	2	N	N	s_gen 	OT
+382	WEB	"Breaking News "" from the new album. When a fan tweeted back about Akon 's thoughts on Michael being in hiding, Riley responded that he and Akon "" think"	Y	1	1	N	N	s_gen 	OT
+383	WEB	cavalry coming from Valencielle. He thought that the threatening skies reminded him of Milton 's description of legions of dark angels driven by St. Michael to the plains of Hell	Y	1	6	N	N	s_gen 	OT
+384	WEB	"many of the more conservative elements in the government, who were flocking to Hitler 's party, which they saw as the key to renewed German prestige and the bulwark"	Y	1	1	N	N	s_gen 	OT
+385	WEB	"Phaenex 2.2 (2007), 124-169). # Paul Ricoueur, in MM 's quote, argues that "" goodness is not only the response to evil, but"	Y	1	1	N	N	s_gen 	OT
+386	WEB	and weekly U.S. and Canadian newspapers is available in the e- Data center on ABC 's website. ABC members will need their user name and password to access the report	N	1	1	N	N	s_gen 	OT
+387	WEB	"In 1985, Cosby riled NBC by placing an anti-apartheid sign in his Huxtable son 's bedroom. The network wanted no part of the debate. "" There may be"	Y	3	1	N	Y	s_gen 	OT
+388	WEB	"In this you drown in mucus, choking, and how you know the patient 's dead is: at the end he turns to be a little child again,"	Y	2	1	N	N	s_gen 	OT
+389	BLOG	"God rather than burnt offerings. Hosea 6:6 While Jesus was having dinner at Matthew 's house, many tax collectors and "" Sinners "" came and ate with him and"	Y	1	1	N	Y	s_gen 	OT
+390	BLOG	"the Physicians' Health Study, which has found that a daily multivitamin cuts men 's cancer risk. Rising is shown here with his pill pack in Antarctica. As"	Y	1	2	N	N	s_gen 	OT
+391	BLOG	"her right arm; Erin and the harp are symbols of Ireland reflecting the territory 's Irish ancestry; blue represents awareness, trustworthiness, determination, and righteousness # Morocco"	N	2	2	N	N	s_gen 	OT
+392	BLOG	"teeth to compare to bite marks on the victims' bodies. Two of Sutcliffe 's victims, coincidentally, were found a few hundred yards from Savile's home."	N	3	1	N	N	s_gen 	OT
+393	BLOG	state of grace. # It's easy to be misled by dates about Christ 's second coming. Few priests and few people emphasize Christ's coming at our death	Y	1	2	N	N	s_gen 	OT
+394	BLOG	"example -- one of three, I might mention -- was to suggest that Watson 's portrayal of the young woman -- "" Lunam "" -- was somewhat overly tinged with"	Y	1	5	N	N	s_gen 	OT
+395	BLOG	the Paris Chocolate Show. Renault brought a little automotive flair to the this year 's show by teaming with French pastry chef Pierre Herm to create a Renault Twizy covered	N	2	1	N	N	s_gen 	OT
+396	BLOG	"small credit for his previously taxed retirement contributions.After survivor election and income taxes, John 's net annual retirement will be about $20,800. He also will be entitled to a"	Y	1	3	N	N	s_gen 	OT
+397	BLOG	", Eric, but there is this (I reproduce this again from Andrew Sullivan 's blog): # "" It was a dramatic weekend in Libya, starting on"	Y	2	1	N	N	s_gen 	OT
+398	BLOG	"Denise Rich used to donate towards the Algore's 2000 Presidential campaign and Hillary Clinton 's 2000 Senate campaign; as a "" reward "", the corrupt criminal Marc Rich"	Y	2	3	N	N	s_gen 	OT
+399	BLOG	or fullscreen? I'm guessing it starts as 1024x768. What is your monitor 's native resolution? Is it 1920x1200? Try to uncheck fullscreen before applying your changes	Y	2	2	N	N	s_gen 	OT
+400	BLOG	"the plan was for Andrew Cartmel and other writers to delve deeply into the Doctor 's history, while revealing the Doctor as a Machiavellian chessmaster (shades of this were"	Y	2	1	N	N	s_gen 	OT
+401	BLOG	", and avoid 66. Congestion and failed growth patterns are a threat to FFX 's success and drive jobs out to Loudoun, PWC, and beyond. # Fairfaxs"	Y	1	1	Y	N	s_gen 	OT
+402	BLOG	"DEAD (1981) The premier "" cabin in the woods "" experience. Raimi 's horny hemlock tree rape scene slapped the censorship cuffs on it in German, Iceland"	Y	1	5	N	N	s_gen 	OT
+403	BLOG	turn this whole day took. When I woke up I decided to check Emily 's Facebook page to see if she'd posted any sort of apology or whatnot but	Y	1	2	N	N	s_gen 	OT
+404	BLOG	"intwined are the Times and the US government that it also spoke to the paper 's previous' reporting'): # After the Italian documentary was broadcast, the"	N	2	2	N	N	s_gen 	OT
+405	BLOG	"current leading ideas have that all the giant planets have rocky cores. In Jupiter 's case, it'd be pretty big, perhaps 10 -- 20 Earth masses,"	Y	1	1	N	N	s_gen 	OT
+406	BLOG	"(319/418) and learn how we can help enhance your journey through your family 's history. There you can purchase one of our Research in the States publications,"	Y	2	1	N	N	s_gen 	OT
+407	BLOG	had to be portable. Included with the purchase of the first Walkman were Sony 's MDL-3L2 headphones and everything you needed to rock out to London Calling while roller skating	N	1	2	N	N	s_gen 	OT
+408	BLOG	"Ankara No. 2 DM Court where the Fethullah Gulen trial was taking place. Yuksel 's claim was that "" there is a link between Gulen and the American Secret Service"	Y	1	1	N	N	s_gen 	OT
+409	BLOG	", Renee fed the line with one hand, and the line passed between Renee 's body and my body and the cliff, keeping the fish in close. This"	Y	1	1	N	Y	s_gen 	OT
+410	BLOG	"John E. Tate, who devised the policy of uncompromising resistance that would characterize Wal-Mart 's labor relations posture for decades to follow. That applied not only at the company"	Y	1	3	N	N	s_gen 	OT
+411	BLOG	"putting together visual breakdowns of what people are reading and posting, a la Google 's perennially-fascinating Zeitgeist report. Maybe they'll expand their original editorial side, moving away"	N	1	3	N	N	s_gen 	OT
+412	BLOG	", 2012 A look at RG3's rare misses # After looking at RG3 's numbers against the Vikings, I was mildly surprised to see that he had five"	Y	1	1	N	N	s_gen 	OT
+413	BLOG	"compel that person to do so. # Note: I'm referring to Jarvis 's extreme scenario, where the other person involved is a person, for the sake"	N	1	2	N	N	s_gen 	OT
+414	BLOG	"out of disgust, he because he's rehearsing a lovesick speech to his school 's alpha hottie (Nickelodeon star Victoria Justice), who keeps him as a friend-pet"	N	2	2	N	N	s_gen 	OT
+415	BLOG	only reports one of the many bizarre events toward the end of Anna Nicole Smith 's life. Her entourage and environment was totally foul. It is not a coincidence	Y	3	1	N	N	s_gen 	OT
+416	BLOG	keep up that kind of act for the rest of the debates. # Romney 's ability to repeat the falsehoods he's campaigned on was pretty entertaining. The other	Y	1	1	N	N	s_gen 	OT
+417	BLOG	"who gave him his first scholarship offer back when he was at Auburn during Trey 's sophomore season, "" Wofford said. # What about No. 5? It will"	Y	1	2	N	N	s_gen 	OT
+418	BLOG	"Ohio, when a peacock swooped in and attacked her. # According to Kylie 's parents, the peacock landed right by the girl, buzzing the top of her"	Y	1	1	N	N	s_gen 	OT
+419	BLOG	sex without putting a gun to her head? Guess I would win Ben Stein 's money for knowing that rape laws typically permit a basis of psychological force. Good	Y	2	1	N	Y	s_gen 	OT
+420	BLOG	"by the postal service for insufficient postage flies in the face if the Postmaster General 's letter, "" said Buehler. # No, Katie, it's because you"	Y	3	1	N	N	s_gen 	OT
+421	BLOG	"Anatole Broyard as a template for his main character. In August 2012, Roth 's biographer, Blake Bailey, became an interlocutor who tried to change the Wikipedia entry"	Y	1	1	N	N	s_gen 	OT
+422	BLOG	"# For more details on the reaction of thousands of Hungarians outraged by their government 's action, read our report here. # Demonstrations worldwide # Meanwhile, Armenians and"	N	2	1	N	N	s_gen 	OT
+423	BLOG	"'re an alcoholic or not. And it's happening more frequently to men Joe 's age. This is why he wishes he had never left Canada, and why"	Y	2	1	N	N	s_gen 	OT
+424	BLOG	"change a scene' usually means changing the characters and/or location. In Dan Brown 's The Lost Symbol, there are no fewer than 133 chapters. Each is a"	Y	2	3	N	Y	s_gen 	OT
+425	BLOG	"burgeoning amateur squad. Abad will also oversee the team of surfers that represent SPY 's vintage-inspired Crosstown Collection--Nate Tyler, Joel Tudor, Jared Mell, Ryan Burch, and"	Y	1	3	N	N	s_gen 	OT
+426	BLOG	"participating in future BOOK CLUB discussions, keep your eyes on Jen's and Nicole 's blogs for their giveaway/sign-up posts! # Love at First Book Club is a new"	Y	1	1	N	N	s_gen 	OT
+427	BLOG	"the last three films. # Maybe the plan isn't to simply milk Lucasfilm 's existing properties, but to also produce original stories and other existing Disney properties under"	Y	1	2	N	N	s_gen 	OT
+428	BLOG	"on the second of the day's three difficult climbs, Delgado attacked with Kelme 's Jose Recio. Somehow the pair managed to build a lead of over 7 minutes"	Y	1	2	N	N	s_gen 	OT
+429	BLOG	", he was quite possible the epitome of evil in the 20th century. Hitler 's Pope (by John Cornwell) Pt.1 # To read more, click here and"	Y	1	1	N	N	s_gen 	OT
+430	BLOG	presentations explaining their projects and goals to fellow journalists during the Online News Association conference 's Lightning Round. # Rouault: Local Data is a new digital toolkit that allows	N	5	2	N	N	s_gen 	OT
+431	BLOG	BOB. # 4. One thing that hasn't changed is that Penn State 's defense is very good. Which defenders should cause IU particular concern? # Linebacker	N	2	1	N	N	s_gen 	OT
+432	BLOG	"'s position on immigration is disastrous, and it is at odds with the party 's own values. # No party can win if it is seen as heartless."	N	2	2	N	N	s_gen 	OT
+433	BLOG	to the Great Way and historically the Sangha has catered for all. Some people 's path may (for the moment) be just to burn some incense or circumambulate	Y	2	1	N	N	s_gen 	OT
+434	BLOG	". Finishes at 98 IBUs and 9.4% ABV. # Bold and Robust Character Wyatt 's Barleywine from Moosejaw Pizza &; Dells Brewing Co. of Wisconsin Dells, Wisconsin An English-style"	Y	1	1	N	N	s_gen 	OT
+435	BLOG	", but the fact is, lesser known atheist Youtubers have been pointing out Thunderf00t 's attitude problems for years. It's about time that everyone else started to catch"	Y	1	2	N	N	s_gen 	OT
+436	BLOG	# I read what you said about Smolov here http: **32;682;TOOLONG. This guy 's circumstances are a little different than mine though. I have plenty of time to	Y	2	1	N	N	s_gen 	OT
+437	BLOG	and it should be expected of him. # Lisa writes on Elaine &; Marysol 's confrontation: # The women and I were invited to a luncheon and fashion show	Y	3	1	N	N	s_gen 	OT
+438	BLOG	"top charts, Apple's own apps, as well as Facebook's and Google 's dominate. Only Disney (with Temple Run: Brave) was also able to"	N	1	1	N	N	s_gen 	OT
+439	BLOG	"is not working. And diminished support in Ohio for Romney, together with Obama 's successful grassroots efforts to get out the vote to young voters, will result in"	Y	1	3	N	N	s_gen 	OT
+440	BLOG	he is still voting for Romney on Tuesday despite Obama's support for New Jersey 's recovery efforts. ' 5 Ohios' analyzed in swing state # Ohio could	N	2	2	N	N	s_gen 	OT
+441	BLOG	"articulated in a few sentences, that that should be enough to pique the audience 's interest. That's often dismissed as crass and leads to vapid movies... but"	Y	2	1	Y	N	s_gen 	OT
+442	BLOG	those Americans who will never be spared the sword of Islam. Safety from Islam 's brutality can not be bought by non-Muslims from Muslims at any price (a lesson	N	1	1	N	N	s_gen 	OT
+443	BLOG	"to spiritual pride, which naturally leads to blindness to anything that transcends the individual 's own self and his desires. # I think this is also connected to the"	Y	2	2	N	N	s_gen 	OT
+444	BLOG	like a rather large number. We don't get too involved in other people 's wars unless there are human rights issues at stake. (although our current Prime	Y	2	1	N	N	s_gen 	OT
+445	BLOG	"be a dead letter. Same for Hillary. "" --- A theory of Petraeus 's retirement # So much for the "" security "" of the CIA's communication systems"	Y	1	1	N	N	s_gen 	OT
+446	BLOG	"much, much more. # Ambassador Stevens was working to improve governance in Libya 's young democracy, a hot-button issue in the Middle East, North Africa and around"	N	1	2	N	N	s_gen 	OT
+447	BLOG	"nothing. "" # Meador said she was "" amazed and inspired "" by Barbour 's determination to vote. # "" It was like a miracle that he was able"	Y	1	1	N	N	s_gen 	OT
+448	BLOG	great mumblecore film? No. No. No. That should have been Faraci 's argument - that mumblecore proves its own irrelevance by producing absolute nothing. # As	Y	1	1	N	N	s_gen 	OT
+449	BLOG	"of promoting a book, conference or website will be deleted so that this blog 's higher purpose isn't"	N	2	2	N	N	s_gen 	OT
+450	BLOG	"needed one. And Lynchburg-based Southern Air, which services the refrigeration components on Fick 's trucks, fixed the compressor for free. # "" It's a shame for"	Y	1	1	N	Y	s_gen 	OT
+451	BLOG	"and I are both ghetto nerd military grognard types who understand the silliness of Romney 's critique of a "" historically "" small military. # Killing power, lethality,"	Y	1	6	N	N	s_gen 	OT
+452	BLOG	"saloon girls for the hostess and servers. "" But, unfortunately, Mr. Bill 's time was short lived. The history goes: "" But Patti's continued to"	Y	2	1	N	N	s_gen 	OT
+453	BLOG	"magical romance and new adventure with King Rhamus's sister, Kasha, and Olga 's brother, Eric. If you loved Love's Captive, be enchanted with Volarn"	Y	1	2	N	Y	s_gen 	OT
+454	BLOG	to achieve the frothed milk effect? Don't fret. Here's an insider 's secret -- A fancy espresso machine isn't necessary to prepare a homemade chai tea	Y	2	1	N	N	s_gen 	OT
+455	BLOG	are simply NO women's sites that allow such repartee for women who support men 's rights. # I think most women have the complacement notion that other women support	Y	1	1	N	N	s_gen 	OT
+456	BLOG	"keeps the songs below four minutes (which is only four times on the album 's 10 tracks),' Born to Sing: No Plan B' comes close"	N	2	2	N	N	s_gen 	OT
+457	BLOG	"on them. # While the police were flipping through my wallet, my friend 's boyfriend took off. Spun out and stronger than most of the officers, he"	Y	2	1	N	Y	s_gen 	OT
+458	BLOG	"for FIDAC and it's management team that they will continue to follow Mr. Farrell 's example of ethics, integrity, and soundness of purpose and Annaly will go on"	Y	2	3	N	N	s_gen 	OT
+459	BLOG	"September 11 assault on the Benghazi consulate, with Republican lawmakers accusing President Barack Obama 's administration of misleading the public about its cause. # Congress has summoned officials to"	Y	3	1	N	N	s_gen 	OT
+460	BLOG	"or not be mindful of your pre-birth diet. That probably contributes to your baby 's development and growth. If there are still misconceptions, talk to a professional."	Y	2	3	N	N	s_gen 	OT
+461	BLOG	's not to like? I too thought the judges were quite harsh on Victoria 's dancing this week. It was an insane song to have to dance a Paso	Y	1	1	N	N	s_gen 	OT
+462	BLOG	"this singular place twice. Here and in last week's column: "" World 's most loved cities. "" # What do people love about Paris? If you"	N	1	3	N	N	s_gen 	OT
+463	BLOG	"so much. I don't even need to mention how much better the Weekend 's voice sounds throughout the record because you already know. No, I am not"	N	2	2	N	N	s_gen 	OT
+464	BLOG	"potatoes in their respective frocks. By the looks of things, Rebecca and Erik 's marriage is not long for this world, and yes, Punky, that is"	Y	3	1	N	N	s_gen 	OT
+465	BLOG	"on his part to stand up for the right to, uhm, hide one 's financial information. # But let's say that people are truly pissed -- he"	Y	1	2	N	N	s_gen 	OT
+466	BLOG	"right. "" Sorry my son *ZAP*. "" And trying to help with Troi 's religious needs would probably put a strain on his vow of celibacy.) #"	Y	1	2	N	N	s_gen 	OT
+467	BLOG	to be misunderstood. Ever since Wolfer the correlation holds with the exception of Waldmeier 's jump. Adjustments do NOT abound. The only adjustments ever made were by Wolf	Y	1	1	N	N	s_gen 	OT
+468	BLOG	"looking foolish every time out down the stretch. Where he lies in the team 's future is all but a foregone conclusion, if not for his considerable lack of"	Y	2	1	N	N	s_gen 	OT
+469	BLOG	seems logical that if you're going to shout to the world that someone else 's food products are highly contaminated with something -- and that the producer of that food	Y	2	2	Y	N	s_gen 	OT
+470	BLOG	the peoples. But this is not a good model for providing access to one 's genius content. # ADDITIONAL UPDATE: # It took slightly over two hours to	Y	1	2	N	N	s_gen 	OT
+471	BLOG	"Thanks to Neven, here is a link to regularly updated videos at Chris Reynold 's Dosbat blog: # I will have to confirm, but I think this is"	Y	2	2	N	N	s_gen 	OT
+472	BLOG	"agent, as well as the endless FOX and CNN cavalcade reports on terminal TV 's during layovers. If you were in the middle of it, you would think"	N	2	2	N	N	s_gen 	OT
+473	BLOG	slaughter or wounding of civilians but that is NO consideration in the eyes of Israel 's present forces. # Charrett contends that Hamas actually was not responsible for the rockets	N	1	2	N	N	s_gen 	OT
+474	BLOG	"why, Amazon's self-publishing model has somewhere between zero and negligible effect on Charlie 's income. Publishing isn't a zero sum game. And while he may be"	Y	1	1	N	Y	s_gen 	OT
+475	BLOG	"for Scotland if we have control of our own affairs. # Interestingly, Margo 's central theme was' Speak to those who disagree. Put yourselves in their place"	Y	1	2	N	N	s_gen 	OT
+476	BLOG	"'re up for it, can you touch on the requirements of posting another source 's content on your own site, in terms of recognizing them? # Also,"	N	2	1	Y	N	s_gen 	OT
+477	BLOG	"total number of write-in votes was 29,121. # Fairfax County, where the cat 's campaign is located, cast a total of 1,989 write-in votes, while about 22,000"	Y	2	1	N	N	s_gen 	OT
+478	BLOG	"to liberality but are the most intolerant people I know. They give money--other people 's money, that is--but very little to none of their own. Margie 1.9.11"	Y	2	1	N	Y	s_gen 	OT
+479	BLOG	.) # Yeshua revealed the truth plainly: humans who remain separated from God 's living and written Word are cut off from their Life Source and authoritative Head.	N	1	1	N	N	s_gen 	OT
+480	BLOG	"3258701 # Here's the full text of Mayor Bloomberg 's Hurricane Sandy storm update this evening, delivered at the downtown Brooklyn outpost of the"	Y	2	3	N	N	s_gen 	OT
+481	BLOG	"# As always, there are folks who wish to make a profit from people 's misery. John Jenkins is permanently outside the doors of PATH signing up the newly"	Y	1	1	N	N	s_gen 	OT
+482	BLOG	"portion that is in forex is hedged. # Two, about 60% of Apple 's foreign profits have had US corporate taxes accounted for, as Apple has stated that"	N	1	2	N	N	s_gen 	OT
+483	BLOG	not be charmed by the remarkable execution of a deep obsession. # Inside Young 's train barn. # Young's model trains. # Two old trains sit behind	Y	1	2	N	N	s_gen 	OT
+484	BLOG	year. Also anything else that seems cool for lighting like gadgets or someone else 's fixtures that seem pretty cool. Re: What do you want to know	Y	2	1	Y	N	s_gen 	OT
+485	BLOG	came from Dan Rather's throbbing memo... # Romney released a statement echoing Rubio 's statement that Obama's decision makes a resolution harder to get to. There's	Y	1	1	N	N	s_gen 	OT
+486	BLOG	"element. (PBOT showed plastic "" candlestick "" bollards in their materials at today 's meeting, but SAC members objected to them on aesthetic grounds. It's not"	N	1	1	N	N	s_gen 	OT
+487	BLOG	in the West Hills house. Just one more reminder of how suppressed her children 's joy had been. Julia much preferred this homemade Christmas tree. # The tiny	Y	2	1	N	N	s_gen 	OT
+488	BLOG	become petty strong lately. # The vice president asked a man at his son 's funeral about the size of his son's testicles. # The president referred to	Y	2	1	N	N	s_gen 	OT
+489	BLOG	"on our embassy in Benghazi: # Sen. John McCain (R-Ariz.) called Petraeus 's testimony "" comprehensive, I think it was important, it added to our ability"	Y	1	2	N	N	s_gen 	OT
+490	BLOG	""" # The crowd went absolutely bonkers. Waving American flags flew out of people 's hands. My mind ping-ponged between wanting to write everything down, getting my recorder"	Y	1	1	N	Y	s_gen 	OT
+491	BLOG	house on a street affects the value of an entire block. The mortgage holder 's asset turned into a liability and then disappeared entirely as cities moved in to tear	Y	3	1	N	Y	s_gen 	OT
+492	BLOG	"tell us about why she's here, because I wasn't sent anyone else 's files but hers. I'm holding the file open in my lap right now"	Y	2	1	Y	N	s_gen 	OT
+493	BLOG	"me. with that said, heres one of the few pictures from last weekend 's vegas shenanigans where i made an appearance on film on the left there is"	N	2	2	N	N	s_gen 	OT
+494	NEWS	"New York Times , which broke a story about the accusations of two women against  him , as '' third-rate , sick , bad"	Y	2	2	N	N	0f_gen	LT
+495	ACAD	"Jan. 8 , 2002 . '' No Child Left Behind Act of 2001   ''.  Washington , DC : U.S. Department of Education ."	N	1	5	N	N	0f_gen	LT
+496	ACAD	"loan default behavior nearly exclusively to the actions of students).   # Also , first-order measurements are not only"	Y	1	2	Y	N	0f_gen	LT
+497	NEWS	"and when I travel around and see the intensive daily activities of expanding  Jewish settlements  , I feel it is too late , and"	N	3	4	Y	N	0f_gen	LT
+498	ACAD	"human nature and indeed all of creation . In the adage of Athanasius , '' God became man , so that man could become"	Y	1	2	Y	N	0f_gen	LT
+499	BLOG	and by the imagination ; it therefore vanishes with the advent of  real mastery over  them . '' (Marx) # Animals have	N	2	2	N	N	0f_gen	OT
+500	NEWS	"seen the effects of war on people as a Goodwill Ambassador of U.N. Women, whose goal is to support women 's human"	N	1	3	N	N	0f_gen	LT
+501	WEB	"eight years , was nearing a milestone : the 50th anniversary of its premiere. Not many TV shows last a half a century"	N	2	3	N	N	0f_gen	OT
+502	ACAD	that characterize the U.S. economy reduces the appeal of nominal GNP targeting  . '' # It is important to recognize that	N	3	2	N	N	0f_gen	LT
+503	ACAD	there are problems that may be encountered in the application of  border measures to enforce domestic environmental laws and	N	2	2	Y	N	0f_gen	LT
+504	BLOG	"look elsewhere . The past three decades have seen   the   ascendancy of  free market   fundamentalism  , the idea that a '' free market ''"	N	3	2	N	N	0f_gen	OT
+505	BLOG	"uncomfortable , but it is vital to talk about   all   aspects of compensation   .   The  perception of fairness largely determines"	N	1	2	N	N	0f_gen	OT
+506	ACAD	"UNDER STRESS (1986) . A recent ,   balanced   assessment of the   problems   raised  by the trade remedy system can be found in"	N	2	2	Y	N	0f_gen	LT
+507	ACAD	"acting medication) which would interfere with   the   assessment of the   device   ,  and/or had a history of symptoms compatible with a"	N	2	2	Y	N	0f_gen	LT
+508	ACAD	"in Iraq , a war of necessity , marked   the   beginning	of	the   American   era  in the Middle East and the second Iraq war"	N	3	2	N	Y	0f_gen	LT
+509	ACAD	"Table 1 on page 25) . Indeed ,   the   beginning	of	the   modern   era  of wind power bore few similarities to earlier"	N	3	2	N	Y	0f_gen	LT
+510	ACAD	"Sanctions applied by only a few states to influence   the   behavior	of	many   states   are  unlikely to be successful . Sanctions applied by"	N	2	2	Y	N	0f_gen	LT
+511	ACAD	". Sanctions applied by many states to influence   the   behavior	of	a   few   states  are much more likely to succeed . # Such"	N	3	2	Y	N	0f_gen	LT
+512	WEB	"to cut one or the other entirely , without   the   benefit	of	judge   and   jury  etc . # This post made me realise it"	N	4	2	N	N	0f_gen	OT
+513	BLOG	"a high propensity of spending would also not enjoy   the   benefits	of	tax   cuts   ,  since they have lost their income . This important"	Y	2	2	Y	N	0f_gen	OT
+514	NEWS	"tender than another night . The sauce , an   intriguing   blend	of	sherry   ,   orange  and chocolate , was highly acidic one night ,"	N	4	3	N	N	0f_gen	LT
+515	ACAD	"colleges in multicollege districts , did not report to   a   board	of	trustees   .   Provosts  and executive deans are included in the"	Y	1	2	Y	N	0f_gen	LT
+516	ACAD	"in turn , forwarded the plans to the Space   Science   Board	of	the   National   Research  Council for independent evaluation ."	N	7	4	N	N	0f_gen	LT
+517	ACAD	"the prospects of MIS success . Virtually all of   the   bodies	of	literature   mentioned   heretofore  reflect such a belief . For"	N	1	2	N	N	0f_gen	LT
+518	WEB	"239401 10 Signs to   the   Bottom	of	Real   Estate   Markets   # By Mike Colpitts # The bottom of each"	N	3	2	Y	N	0f_gen	OT
+519	ACAD	"beginning in 1940 , again because of changes at   the   boundaries	of	the   middle   ground  -- between the medical system and the family ."	N	3	2	N	Y	0f_gen	LT
+520	WEB	"justified one than me , but trying to stretch   the   bounds	of	reality   to   make  this leap is beyond ludicrous and entirely"	N	1	2	N	N	0f_gen	OT
+521	ACAD	"oligopolistic practices and undermining   the   capacity	of	national   competition   authorities  to protect consumers and a"	N	3	2	Y	N	0f_gen	LT
+522	ACAD	"This claim about the will is not incompatible with   the   capacity	of	literary   texts   to  state the truth or to represent the good ."	N	2	2	Y	N	0f_gen	LT
+523	ACAD	"for 1989-2001 data) . The   hypothesized   cause	of	this   Peromyscus   population  explosion was atrophic cascade ,"	N	4	3	N	N	0f_gen	LT
+524	BLOG	"at our national convention , on sudden death and   the   causes	of	sudden   death   in  collegiate athletes . This is n't new , but"	N	2	2	N	N	0f_gen	OT
+525	ACAD	". '' # And it was Theodore von Karman   ,   chairman	of	the   Army   Air  Force 's Scientific Advisory Group (later known as"	N	7	1	N	N	0f_gen	LT
+526	ACAD	"significant interaction was revealed across   any   combination	of	the   variables   under  study . # In testing the key research"	N	4	2	Y	N	0f_gen	LT
+527	ACAD	"insufficient attention to considering   the   combination	of	factors   that   make  one place unique from another . They reasoned"	N	1	2	Y	N	0f_gen	LT
+528	NEWS	"Corp . FDIC Chairman Donald E. Powell and   Utah   Commissioner	of	Financial   Institutions   Ed  Leary agree . # But Greenspan said ,"	N	5	2	Y	N	0f_gen	LT
+529	BLOG	"lot of rookies , but there was also a   good   complement	of	veteran   leaders   .  Indeed , the first-place votes were split"	Y	2	3	Y	N	0f_gen	OT
+530	NEWS	"The long-awaited pages of fine print recognized   the   completion	of	a   public   policy  ideal for Carter . '' I often have said"	N	3	2	Y	N	0f_gen	LT
+531	NEWS	". The division was established as a   nonregulatory   component	of	the   state   Department  of Natural Resources to work with"	N	6	3	N	Y	0f_gen	LT
+532	ACAD	"on Response to Intervention . (2010) .   Essential   components	of	RTI   :   A  closer look at response to intervention . Retrieved from"	N	1	2	N	Y	0f_gen	LT
+533	ACAD	"of gold speculation , economists have not earned   the   confidence	of	bankers   .   As  it was put by Paul Samuelson (1982 1986"	Y	1	2	Y	N	0f_gen	LT
+534	NEWS	"her inner circle . For at 10:15 a.m. ,   the   contents	of	her   maisonette   --  some of it very good , much of it"	N	2	2	N	N	0f_gen	LT
+535	NEWS	"sketches festivals , ceremonies and history , all in   the   context	of	food   .     # Perhaps the task required a newcomer to capture the"	N	1	2	N	N	0f_gen	LT
+536	NEWS	", QB - The two-year starter works behind a   solid   corps	of	linemen   .   Jeff  Byers , Loveland , Sr. , C-DT - At"	Y	1	3	N	N	0f_gen	LT
+537	WEB	"the Pro 's NBA Style . For those that   keep   count	of	these   things   ,  from now until Thanksgiving , when the league has"	N	2	1	Y	N	0f_gen	OT
+538	ACAD	"red robes and white linen coifs . This was   a   court	of	criminal   jurisdiction   and  chained prisoners can be seen here"	N	2	2	N	N	0f_gen	LT
+539	NEWS	"Kidman undergoing dramatic   transformations   courtesy	of	the   makeup   team  . # '' When I first saw Nicole ,"	N	3	3	N	N	0f_gen	LT
+540	BLOG	"is denied proper burial by her family in the   botched   crossing	of	the   proverbial   River  Styx . Darl acts as a sort of Cassandra"	N	4	3	Y	N	0f_gen	OT
+541	WEB	"fat . Omega-3 fats , which are fast becoming   the   darling	of	the   supplement   industry  , are an important type of"	N	3	2	N	N	0f_gen	OT
+542	NEWS	"# Juan Perry Chesapeake man charged in   shooting   death	of	friend   granted   bond   # Family and friends of Jaonta '' JaaySkiii"	Y	1	2	N	N	0f_gen	LT
+543	WEB	"election result for his organization on Tuesday was   the   defeat	of	Republican   Rep.   Brenda  Landwehr by Democrat Nile Dillmore ,"	N	2	2	N	N	0f_gen	OT
+544	ACAD	"any '' higher law . '' # Aquinas 's   famous   definition	of	law   --   ''  Law is a certain ordination of reason for the"	N	1	3	N	N	0f_gen	LT
+545	ACAD	"variables for each school were conducted to examine   the   degree	of	change   among   the  variables and are reported in Table 3 ."	N	1	2	N	N	0f_gen	LT
+546	NEWS	"style reports the humanity of his subjects and   the   depth	of	their   poverty   with  equal clarity . In no terms do these people"	N	2	2	N	N	0f_gen	LT
+547	ACAD	"in organizations . A PROPOSED MIS LAW # In   the   development	of	laws   and   theories  , the scientist seeks fundamental"	N	3	2	Y	N	0f_gen	LT
+548	ACAD	"and faculty can make a major contribution to   the   development	of	skills   and   a  commitment to the public weal . # A corollary"	N	1	2	Y	N	0f_gen	LT
+549	WEB	"-- the party of the socialist revolution and of   the   dictatorship	of	the   proletariat   .  In this book Lenin ideologically demolished ''"	N	2	2	N	N	0f_gen	OT
+550	NEWS	"near Alcala . The U.N . Charter is signed   by   diplomats	of	50   nations   .   # June 27 , 1945 # Soldiers of the"	N	2	1	Y	N	0f_gen	LT
+551	ACAD	"guns to testify before Congress . Richard G. Darman   ,   director	of	the   Office   of  Management and Budget , delivered the opening"	N	4	1	Y	N	0f_gen	LT
+552	NEWS	"how Randall Road looks , '' said Cindy Skrukrud   ,   director	of	the   McHenry   County  Defenders , an environmental watchdog group"	N	4	1	Y	N	0f_gen	LT
+553	ACAD	"of mass society . Its freedom is maintained by   the   division	of	political   power   and  the maintenance of a heterogeneous social"	N	2	2	N	N	0f_gen	LT
+554	BLOG	"little update for you . I spoke with Rabbi   Zvi   Drizin	of	The   Intown   Chabad  about this project and what it means for Uptown"	N	3	3	N	N	0f_gen	OT
+555	WEB	". # The proposed secession was authored by a   Michael   E.	of	New   Orleans   who  quoted sections of the Declaration of"	N	2	3	Y	N	0f_gen	OT
+556	ACAD	"Tennessee and Pennsylvania later found the same. 10   The   effect	of	these   cases   was  to normalize and even expand this"	N	2	2	Y	N	0f_gen	LT
+557	ACAD	"by hurricanes in recent years . The   ecosystem-level   effects	of	this   recent   spate  of hurricanes are evident in the severe"	N	6	3	Y	N	0f_gen	LT
+558	ACAD	"higher cost , than is necessary . Conversely ,   when   efficiency	of	the   new   system  is worse than perceived , management 's"	N	3	1	N	N	0f_gen	LT
+559	WEB	"lot of hassle out of walking everywhere and at   the   end	of	the   day   you  are still left with plenty of energy for the"	N	2	2	N	N	0f_gen	OT
+560	ACAD	"United States , including changes in leisure time by   the   end	of	the   century   suggesting  a '' crisis in social evolution in the"	N	2	2	N	N	0f_gen	LT
+561	NEWS	"got out and we found out it was just   the   end	of	my   seatbelt   .  I had closed my door on it and it"	N	2	2	N	N	0f_gen	LT
+562	ACAD	"(writing in the 1950s) would label ''   the   enemies	of	the   permanent   things  '' # One hears these echoes in the rhetoric"	N	3	2	Y	N	0f_gen	LT
+563	NEWS	"said it 's unfair for the state to charge   the   estates	of	those   already   receiving  long-term care . # '' It would be only"	N	5	2	N	N	0f_gen	LT
+564	ACAD	"are translated into the food we eat . A   few   examples	of	the   increasing   links  between imported raw fruits and"	Y	3	3	N	N	0f_gen	LT
+565	BLOG	", has a frequency percentage of 3.9% among the   2538   examples	of	male   names   of  the period surveyed by Tal Ilan. xxii Is 3.9%"	N	2	3	Y	N	0f_gen	OT
+566	NEWS	"drain # The government hopes the program will stem   the   exodus	of	talented   Jamaicans   .  Michael Ledgister , 22 and unemployed , was"	Y	2	2	Y	N	0f_gen	LT
+567	ACAD	"revolutionary project is by no means an   overheated   expression	of	idealism   nor   an  inordinate and unbalanced love of concrete"	N	1	3	N	N	0f_gen	LT
+568	ACAD	"are accompanied by the Money opens doors .   visual   expression	of	the   power   Money  is a key . of the cleaning lady ."	N	3	2	N	N	0f_gen	LT
+569	ACAD	"reality is what actually happens in classrooms . In   the   eyes	of	practitioners   ,   university-based  teacher educators , the"	Y	1	2	Y	Y	0f_gen	LT
+570	BLOG	"them any less good or worthy or equal in   the   eyes	of	God   .     # Comment by Kevin on 8/24/12 at 8:44 am #"	N	1	2	N	Y	0f_gen	OT
+571	NEWS	"high school All-City Stadium and is exploring   the   feasibility	of	advertising   on   school  buses . Other areas that could be"	N	4	2	N	N	0f_gen	LT
+572	WEB:	"when the Game of Life was developed . The   fascinating   feature	of	the   game   is  that a small set of such simple rules can"	N	2	3	N	N	0f_gen	OT
+573	NEWS	"Though the fighting ended a mere week ago ,   two   features	of	the   new   landscape  are already clear : With Iraq cut down to"	N	3	2	N	N	0f_gen	LT
+574	ACAD	"of Eastern European immigrants were   vertiginous   flights	of	horrified   fancy   .  He was not '' a Polish Jew fresh from"	N	2	2	Y	N	0f_gen	LT
+575	NEWS	"affect things like garbage pickup or , worse ,   the   flow	of	first   responders   or  people driving to hospitals . # In 2018"	N	2	2	Y	N	0f_gen	LT
+576	BLOG	"from point A to point B -- is the   life   force	of	our   economy   .  Yet many of our transportation systems are"	N	2	3	N	N	0f_gen	OT
+577	ACAD	"of kindling and shattered dreams . More than any   other   force	of	nature   ,   we  have little defense against the wind . The wind"	N	1	3	N	N	0f_gen	LT
+578	ACAD	"or sexism falls early across our young lives --   the   force	of	evil   striking   at  our very souls when we are most vulnerable ."	N	1	3	N	N	0f_gen	LT
+579	ACAD	"beginning of wisdom . By all means attend to   the   forecasts	of	experts   ,   as  one must in order to live ; but expert"	Y	1	2	Y	N	0f_gen	LT
+580	BLOG	"description of a class of end-time people who have   a   form	of	godliness   but   lack  its power (2 Tim . 3:1-5) ."	N	1	2	Y	N	0f_gen	OT
+581	ACAD	"1976 and fluctuated thereafter . # Music is a   popular   form	of	leisure   activity   among  college students . The frequency of"	N	2	3	N	N	0f_gen	LT
+582	ACAD	"limited . Courts create a valuable social product in   the   form	of	opinions   ,   but  industrial progress depends on a different kind"	N	1	2	Y	N	0f_gen	LT
+583	ACAD	"from corporate headquarters or ultimate markets . #   New   forms	of	specialization   have   resulted  in the development of strategic"	N	1	2	N	N	0f_gen	LT
+584	ACAD	"with nature . For me , memories of the   overpowering   fragrance	of	lilacs   in   summer  , the last lingering light of sunset , the"	N	1	3	Y	N	0f_gen	LT
+585	ACAD	"figure of 1,220 community colleges (Commission on   the   Future	of	the   Community   College  , 1988) . # Second , definitions of"	N	3	2	N	N	0f_gen	LT
+586	NEWS	"U.S. Justice Department 's National Commission on   the   Future	of	DNA   Evidence   to  address the basic issue of keeping DNA samples"	N	2	2	Y	N	0f_gen	LT
+587	ACAD	"somehow create an extra-human or utopian world .   The   givenness	of	reality   must   be  accepted and even cherished , and therefore ''"	N	1	2	N	N	0f_gen	LT
+588	BLOG	"!) ; now let 's donate some for   the   good	of	our   city   !   # New York Blood C enter (NYBC)"	N	2	2	N	N	0f_gen	OT
+589	ACAD	"and academic support at a faster rate than   the   growth	of	regional   mean   income  . Table 1 # First-Order Measures Used in"	N	3	2	N	N	0f_gen	LT
+590	ACAD	"it already does . In the United States ,   the   growth	of	the   biofuel   industry  has triggered increases not only in the"	N	3	2	N	N	0f_gen	LT
+591	BLOG	". There is a revolution coming gentlemen , we   the   harbingers	of	the   oriental   culture  have suffered as much persecution at the"	N	3	2	N	N	0f_gen	OT
+592	BLOG	"some themes remain underdeveloped . At one point   the   head	of	the   household   's  first wife has two little girls circumcised ,"	Y	4	2	N	Y	0f_gen	OT
+593	WEB	"heating in making this comparison . This shows that   the   heating	of	the   iris   is  certainly below the thermal damage threshold when"	N	2	2	Y	N	0f_gen	OT
+594	ACAD	"own and the money they do not own with   the   help	of	bank   loans   or  mortgages . The video clip introduces a two-fold"	N	2	2	Y	N	0f_gen	LT
+595	NEWS	"teams coach , was in the living room of   the   home	of	the   Central   Catholic  High School head coach , as enthusiastic as"	N	7	2	N	N	0f_gen	LT
+596	ACAD	", recreation , entertainment , re- sorts , and   a   host	of	other   outdoor   activities  create most of the challenge because"	N	3	2	Y	N	0f_gen	LT
+597	ACAD	"as a '' way of life . '' 2   The   idea	of	empire   itself   is  completely naturalized (thus the way of life)"	N	2	2	N	N	0f_gen	LT
+598	ACAD	", compared with long-term averages . # The   combined   impacts	of	the   three   storms  greatly increased light attenuation in summer"	N	3	3	Y	N	0f_gen	LT
+599	ACAD	"More than any other causal factor , it was   the   implosion	of	the   ideological   lie  that led to the seemingly inexplicable"	N	3	2	N	N	0f_gen	LT
+600	ACAD	", '' as Jameson puts it , '' is   the   incapacity	of	our   minds   .  . . to map the great global multinational and"	N	2	2	Y	N	0f_gen	LT
+601	NEWS	"who defends people charged with driving under   the   influence	of	marijuana   .   #  It 's not that simple . Driving while impaired"	N	1	2	N	N	0f_gen	LT
+602	ACAD	"reflective period . In either case , the   verbal   interaction	of	the   teacher   was  non-confrontational , limited , unemotional ,"	Y	2	3	N	N	0f_gen	LT
+603	WEB	"understand why Ann , herself , could not address   the   issue	of	abortion   ,   since  it 's clearly a woman 's issue . It"	N	1	2	N	N	0f_gen	OT
+604	BLOG	"now runs his own film production studio , known   as   Land	of	Point   ,   as  well as indulging his musical side as part of"	N	1	1	N	N	0f_gen	OT
+605	ACAD	"so peculiar a note and emphasis that , at   each   lapse	of	an   hour   ,  the musicians of the orchestra were constrained to"	N	2	2	N	N	0f_gen	LT
+606	NEWS	"them or even how to try . That 's   the   legacy	of	today   's   grown-ups  , leaving it to our children to rush into"	N	2	2	Y	N	0f_gen	LT
+607	WEB	"expanded the number of early voting sites , limited   the   length	of	constitutional   amendments   and  given local election"	N	2	2	Y	N	0f_gen	OT
+608	NEWS	"it a '' bogus argument '' to say any   legal   level	of	THC   in   a  driver is safe . # But several factors can"	N	1	3	Y	N	0f_gen	LT
+609	ACAD	"as nurses , but also may place at risk   the   level	of	care   that   patients  receive . # Acknowledgement : This research"	N	1	2	Y	N	0f_gen	LT
+610	ACAD	"into streams from pump stations and treatment plants   .   Location	of	CAFOs   ,   including  waste lagoons and spray fields , on river"	N	1	1	Y	N	0f_gen	LT
+611	ACAD	"your God . '' 20 Love of human beings   without   love	of	God   is   a  conclusion without a premise ; love of God without"	N	1	1	N	N	0f_gen	LT
+612	NEWS	"discovery would mean eviction . John Coleman ,   project   manager	of	the   Willowbrook   Apartments  , said he recently evicted tenants"	N	3	2	Y	N	0f_gen	LT
+613	ACAD	"palace ? , '' the man wondered . Then   the   master	of	the   palace   appeared  and said , '' I am the Master of"	N	2	2	Y	N	0f_gen	LT
+614	ACAD	". It also gave colonial-imperial subjects a   positive   means	of	understanding   their   own  place in the system . If any indigenous"	N	7	3	N	N	0f_gen	LT
+615	ACAD	". Reflective self-analysis can be a very   productive   means	of	professional   development   .  One of the easiest and most"	N	2	4	N	N	0f_gen	LT
+616	NEWS	"Loren-Maltese . But cooler heads prevailed . As one   sage   member	of	the   committee   said  , '' Let their magnificent meanness stand the"	N	2	3	N	Y	0f_gen	LT
+617	BLOG	"the period in question , some doctors and other   staff   members	of	teams   were   passive  supporters of the doping culture in the sport"	N	1	3	Y	Y	0f_gen	OT
+618	WEB	"departments define graduate education at Cornell   .   Members	of	the   Department   of  the History of Art may also serve in other"	N	7	2	N	Y	0f_gen	OT
+619	ACAD	"interpret the data . # Theory-Free Forecasting #   The   method	of	theory-free   forecasting   --  leading indicators or Box-Jenkins"	N	2	2	N	N	0f_gen	LT
+620	ACAD	"and technology It has various members including   the   Ministry	of	the   Environment   ,  the Scientific Agency of Colombia , public and"	N	2	2	N	N	0f_gen	LT
+621	ACAD	"the other hand , acts as a spur to   the   mobilization	of	idle   financial   resources  and to their efficient utilization in"	N	3	2	Y	N	0f_gen	LT
+622	ACAD	". # Perhaps the most critical and   underresearched   mode	of	aspen   persistence   may  be through unusual episodes of"	N	2	1	Y	N	0f_gen	LT
+623	BLOG	"play the game ? Controller or steering wheel ?   What   mode	of	steering   and   assists  ? It 's ok to admit you 're a"	N	3	1	N	N	0f_gen	OT
+624	BLOG	"world from somewhere else . # Transportation --   the   movement	of	people   and   goods  from point A to point B -- is the"	N	3	2	Y	N	0f_gen	OT
+625	ACAD	"be the world 's first fully transnational state --   a   nation	of	world   citizens   .   # Others shared Bourne 's ideal of a truly"	Y	2	1	Y	N	0f_gen	LT
+626	NEWS	"second intifada as head of the Tanzim , an   armed   offshoot	of	Fatah   .   Recommended  next steps Mr. Dahlan , former head of"	N	1	3	N	N	0f_gen	LT
+627	BLOG	"he also questions the value of seeking prestige -   the   opinions	of	people   you   do  n't even know . # - are you doing"	Y	1	2	N	N	0f_gen	OT
+628	NEWS	"remain politically fraught , with supporters   and   opponents	of	marijuana   legalization   hinging  support on the issue . # Huestis"	N	2	3	N	N	0f_gen	LT
+629	ACAD	"(RTI) instructional models to improve the   academic   outcomes	of	their   students   .  A recent national survey conducted by the"	Y	2	3	Y	N	0f_gen	LT
+630	BLOG	"There will only be more disproportional rewards for   the   owner	of	the   broken   system  : the self acknowledged too big to fail"	N	3	2	N	N	0f_gen	OT
+631	BLOG	"one or few alternatives . # Affordability analysis   as   part	of	decision   making   may  be the biggest edge of the decade for both"	N	2	1	N	Y	0f_gen	OT
+632	ACAD	"feedback about successes is important to building CQI   as   part	of	daily   activity   .  It is also sometimes difficult to keep track of"	N	2	1	N	Y	0f_gen	LT
+633	WEB	"the job that allowed me to meet my husband   as   part	of	the   job   !   # -If I had n't volunteered to help in"	N	2	1	N	Y	0f_gen	OT
+634	ACAD	"term , Fletcher considers Poe 's use of soraismus   as   part	of	his   ''   third  vocabulary , '' which depends on allusions and"	N	3	1	N	Y	0f_gen	LT
+635	NEWS	", giving the company about $150 billion in total   as   part	of	a   rescue   package  to help the company remain in business amid the"	N	3	1	N	Y	0f_gen	LT
+636	ACAD	"activities are completed , the records are surrendered (  as   part	of	the   code   of  ethics) either to the local coordinator or to"	N	4	1	N	Y	0f_gen	LT
+637	ACAD	"hire all prospective workers , including older ones .   As   part	of	a   greater   rationalization  of western European labor markets ,"	N	3	1	N	Y	0f_gen	LT
+638	ACAD	"Salmonella 's ability to infect swine . '' #   As   part	of	her   studies   on  the effects of farm practices on the immune"	N	2	1	Y	Y	0f_gen	LT
+639	WEB	"# I have tweeted this on BackupRibbon , which   is   part	of	the   Backup   Ribbon  Project (http : **35;5434;TOOLONG) that"	N	4	1	N	Y	0f_gen	OT
+640	BLOG	", at least give up enough so their no   longer   part	of	the   evil   1%   # The President is acting more like a stand"	N	3	1	N	Y	0f_gen	OT
+641	ACAD	"pollution , famine , malnutrition , and ill health   in   parts	of	the   tropical   world  -- is illustrative . Large areas of"	N	3	1	N	Y	0f_gen	LT
+642	ACAD	"agricultural crops , raw material from the forest ,   major   parts	of	household   waste   ,  and demolition wood . Several factors make it"	N	2	1	N	Y	0f_gen	LT
+643	BLOG	"in the field . His persuasion was felt in   the   passage	of	the   Clean   Air  Act in 1970 and in the establishment of the"	N	4	2	N	N	0f_gen	OT
+644	WEB	"by Lenin , of setting the working-class movement on   the   path	of	political   struggle   against  tsarism and capitalism and arming"	N	2	2	N	N	0f_gen	OT
+645	WEB	"and the martial arts school owner / teacher ,   the   path	of	least   resistance   is  the path to follow in any form of combat"	N	2	2	Y	N	0f_gen	OT
+646	ACAD	"of leisure activities . The present study describes   the   pattern	of	undergraduates   '   leisure  activities at a large urban"	N	3	2	N	N	0f_gen	LT
+647	NEWS	"too much going on , what with the somewhat   gummy   patty	of	beans   and   rice  topped with soy-drenched stir-fried vegetables"	N	3	3	Y	N	0f_gen	LT
+648	BLOG	"a good life , the ability to cope ,   and   peace	of	mind   .   My  prayers are simple : first , they express my"	N	1	1	N	N	0f_gen	OT
+649	BLOG	"about it quite early in time) , nothing   that   people	of	those   times   would  not have known , and a lot of plainly"	N	2	1	Y	N	0f_gen	OT
+650	BLOG	"the Presiding Bishop of the church and Elder L.   Tom   Perry	of	the   Q12   .  At the begining of his training Elder Perry mentined"	N	2	4	N	N	0f_gen	OT
+651	BLOG	"on mid-tour leave and I was showing some family   members   pictures	of	my   deployment   ,  '' said the veteran , 24 , who served"	N	2	4	N	N	0f_gen	OT
+652	NEWS	"35 years , he said he long has held   a   position	of	public   advocacy   and  community service . He lives in the Third"	N	5	2	Y	N	0f_gen	LT
+653	ACAD	"on trade and the environment , and it weakens   the   position	of	protectionists   that   seek  to conceal their demands for trade"	Y	1	2	Y	N	0f_gen	LT
+654	ACAD	". Another important mode of transference is   the   practice	of	feeding   pigs   scraps  of garbage and dead birds. 59 # Modern"	N	8	2	N	N	0f_gen	LT
+655	BLOG	"strangely persistent . In one way or another ,   the   prejudices	of	subjective   idealism   have  penetrated not only philosophy but"	N	2	2	N	N	0f_gen	OT
+656	WEB	", are made by heating liquid vegetable oils in   the   presence	of	hydrogen   gas   and  a catalyst , a process called hydrogenation ."	N	2	2	Y	N	0f_gen	OT
+657	BLOG	"Jeffrey Katzenberg ; Dawn Steel , who would   become   president	of	Columbia   Pictures   ;  and Don Simpson , who would produce with"	N	2	1	Y	N	0f_gen	OT
+658	ACAD	", deer mice populations maintained a chronic   low   prevalence	of	infection   even   at  very low densities , while at other sites the"	N	1	2	N	N	0f_gen	LT
+659	ACAD	". # Law was what Aquinas called an ''   external   principle	of	action   ,   ''  to be distinguished both from internal principles of"	N	1	2	N	N	0f_gen	LT
+660	BLOG	". Getting involved actively in service gives us   the   privilege	of	partnership   with   God  (1 Cor. 3:9) . This comes with"	N	3	2	N	N	0f_gen	OT
+661	ACAD	"explanation for the phenomena observed during   the   processes	of	MIS   development   and  use . In turn , this provides a way"	N	4	2	N	N	0f_gen	LT
+662	BLOG.	"does not drop from the skies , but is   the   product	of	millions   of   years  of development . # The Greek philosopher"	N	5	2	N	N	0f_gen	OT
+663	BLOG	"for income taxes and all other taxes , cost   and   profits	of	any   and   everyone  who involved in producing"	Y	3	3	N	N	0f_gen	OT
+664	ACAD	"of animals is bad must generalize , just like   the   properties	of	protons   are   general  . Protons do n't change whether locked in an"	N	1	2	Y	N	0f_gen	LT
+665	BLOG	"fansite . Characters , story , images and names   are   property	of	Stephenie   Meyer   and/or  Summit Entertainment . If you wish to"	Y	2	1	N	N	0f_gen	OT
+666	WEB	"exercising or doing chores . # Audible is the   largest   provider	of	digital   audiobooks   for  download with over 100,000+ titles"	N	2	3	Y	N	0f_gen	OT
+667	NEWS	"Slave States . '' # '' The miserable sophistries   and   puerilities	of	the   mayor   's  Message ... are not really deserving argument , ''"	Y	3	3	N	N	0f_gen	LT
+668	ACAD	". To say that Eckstein or Samuelson or other   honest   purveyors	of	economic   tips   became  , in fact , a little bit rich does"	N	2	2	Y	N	0f_gen	LT
+669	WEB	"black belt in most stand up arts have made   the   rank	of	black   belt   a  joke . It 's made kids like my son"	N	2	2	N	N	0f_gen	OT
+670	NEWS	"Skyfall , Harris on paper , at least joins   the   ranks	of	such   mythically   fanciful  Bond girls as Honey Ryder (Ursula"	Y	5	2	N	N	0f_gen	LT
+671	ACAD	"Energy Laboratory have calculated that the net   energy   ratio	of	gasoline   is   0.81  , a result that implies an input larger than"	N	1	4	N	N	0f_gen	LT
+672	ACAD	"X118 , hereafter referred to as predictor1) and   the   ratio	of	institutional   instruction   and  academic support spending per"	N	2	2	N	N	0f_gen	LT
+673	BLOG	"benefit or not does not change the fact of   your   receipt	of	it   .     # Milo Fabian # I put it more simply ."	N	2	2	N	N	0f_gen	OT
+674	ACAD	", I discovered a book by Morris Berman ,   The   Reenchantment	of	the   World   (Ithaca  , N.Y. : Cornell University Press , 1981"	N	2	2	N	N	0f_gen	LT
+675	WEB	"Up until mid-March 2011 , when mass protests engulfed   the   regime	of	Bashar   al-Assad   ,  Israeli Prime Minister Benjamin Netanyahu"	N	2	2	N	N	0f_gen	OT
+676	ACAD	". Scandals were uncovered in which spurious sales   and   resales	of	property   were   made  to raise the appraisal value of property --"	N	1	3	N	N	0f_gen	LT
+677	ACAD	"study and the resulting percentage of 5% may be   a   result	of	(  a   )  persistent follow-up efforts utilized to identify African"	N	8	2	N	N	0f_gen	LT
+678	WEB	"expected success inside the 20 ; i.e. , the   end   result	of	many   of   our  drives has not necessarily been successful given our"	N	4	3	N	N	0f_gen	OT
+679	BLOG	"I sure am looking forward to tonight to seeing   the   results	of	the   election   .  Like you , I am so damn glad it"	N	2	2	N	N	0f_gen	OT
+680	ACAD	"6 control schools (n = 26 students )   .   Results	of	multilevel   models   showed  that students with externalizing"	N	2	1	Y	N	0f_gen	LT
+681	NEWS	"embody the mind of a child struggling with the   powerful   riddles	of	family   and   heritage  she 's trying to solve for herself . #"	N	3	3	N	N	0f_gen	LT
+682	WEB	"eating diets high in saturated fat did not raise   the   risk	of	heart   disease   --  a finding that ran counter to decades of dietary"	N	2	2	N	N	0f_gen	OT
+683	BLOG	"River (India) # The Ganges , the   holy   river	of	India   is   one  of the best places for white water rafting in"	N	1	3	N	N	0f_gen	OT
+684	NEWS	". Using special ToonVision 3-D glasses , you explore   50   rooms	of	a   five-story   apartment  building . In one highlight , '' Fridge"	N	4	2	N	N	0f_gen	LT
+685	BLOG	"and their former boss who tried to expose the   dirty   side	of	Armstrong   's   seven  victories in the Tour de France . Tyler"	N	3	3	Y	N	0f_gen	OT
+686	NEWS	"bullet struck Army Capt . Patrick Horan in the   left   side	of	his   head   ,  it was the start of a nearly four-year struggle"	N	2	3	N	N	0f_gen	LT
+687	NEWS	"steak and kidney , but they come from the   non-dysfunctional   side	of	the   family   .  For one thing , they do n't contain kidneys"	N	2	3	N	N	0f_gen	LT
+688	ACAD	", a utopian world . It deals with the   ugly   side	of	human   nature   and  experience and does not demand perfection . It"	N	4	3	N	N	0f_gen	LT
+689	ACAD	"discrimination . Next , she considers   the   significance	of	this   discrimination   for  healthcare agencies , and approaches"	N	5	2	N	N	0f_gen	LT
+690	WEB	", which got more interesting Saturday with   the   signing	of	long-time   backup   David  Ross . The Sox now have a surplus of"	N	4	2	Y	N	0f_gen	OT
+691	BLOG	"creating new jobs , but it also takes people   seeing   signs	of	hiring   in   order  to start feeling optimistic . # Who knew the"	N	1	1	N	N	0f_gen	OT
+692	WEB	"Hall geared toward Greek life # Pictured is the   future   site	of	the   north   residence  hall , which will house eight Panhellenic"	N	4	3	N	N	0f_gen	OT
+693	NEWS	"thought big . The 4,800-square-foot Insalata 's , on   the   site	of	a   former   bank  , seats 110 and prepares pastries for breakfast and"	N	3	2	N	N	0f_gen	LT
+694	BLOG	"off the charts for height so he is actually   the   size	of	a   six-year-old   .  AJ also suffers from constipation and is on"	Y	2	2	N	N	0f_gen	OT
+695	WEB	"should support it ? When exactly do we shrink   the   size	of	government   if   we  have a bunch of moderates teaming up with the"	N	1	2	N	N	0f_gen	OT
+696	NEWS	"Kan. , three people who helped the FBI create   the   sketch	of	John   Doe   No.  2 say they doubt he is Nichols ' husky"	Y	2	2	N	N	0f_gen	LT
+697	BLOG	"sediments . # In Mountain Island Lake , a   primary   source	of	drinking   water   for  Charlotte , pore water samples collected"	N	2	3	N	N	0f_gen	OT
+698	NEWS	"winds were reported near Wilmington , N.C. ,   well   south	of	the   area   expected  to be hardest hit by the hurricane . Two"	N	2	2	N	Y	0f_gen	LT
+699	WEB	"book is a comprehensive survey of the history and   current   state	of	Cellular   Automata   .  I wish I had the time to follow through"	N	2	2	N	N	0f_gen	OT
+700	BLOG	". # One of the worst things about the   typical   strategy	of	anti-choice   people   ,  in my opinion , is how they also oppose"	Y	2	3	N	N	0f_gen	OT
+701	NEWS	"a take-no-prisoners alternative to the Jimmy   Buffett   style	of	partygoing   ,   his  head is anything but empty . # A Thomas"	N	1	4	N	N	0f_gen	LT
+702	WEB	"company in the United States , is a wholly   owned   subsidiary	of	Clear   Channel   and  is home to Rush Limbaugh , Glenn Beck ,"	N	2	4	N	N	0f_gen	OT
+703	WEB	"upon themselves has been awfully answered in   the   sufferings	of	their   nation   .  None could bear the sin of others , except"	N	2	2	N	N	0f_gen	OT
+704	ACAD	"two items found (with means of 3.2 )   were   suggestion	of	guidance   counselor   and  the department 's emphasis on Laban"	N	2	1	N	N	0f_gen	LT
+705	ACAD	"with intellectual disability . #   DISCUSSION   SUMMARY	OF	FINDINGS   Measurement   Equivalence  . An important first step in"	N	3	2	N	N	0f_gen	LT
+706	ACAD	"Queen of Sheba on a Persian silk rug bordered   by   symbols	of	the   12   tribes  of Israel , uniting Jewish and Persian cultures"	N	5	1	N	N	0f_gen	LT
+707	BLOG	"headline . # DetectSyntax . A plugin that detects   the   syntax	of	files   automatically   .  It tries to guess the best syntax for a"	N	1	2	Y	N	0f_gen	OT
+708	NEWS	", Morva told friends that he was on a   special   team	of	people   tasked   with  saving the world . There 's evidence that"	Y	1	3	N	N	0f_gen	LT
+709	BLOG	"intellectal capture '' as opposed to the out and   out   theft	of	our   democracy   by  a ruling class so corrupt as to be unassailable"	N	2	1	Y	N	0f_gen	OT
+710	NEWS	"dull flavors . # The following recipes play on   the   theme	of	potato   soup   by  altering its flavor profile with additions of"	N	2	2	N	N	0f_gen	LT
+711	NEWS	", from Cape Lookout , N.C. , at the   southern   tip	of	North   Carolina   's  Outer Banks , and a hurricane watch was in"	N	4	3	Y	Y	0f_gen	LT
+712	ACAD	"sent vitae that provided additional information .   The   titles	of	leaders   invited   to  be included in the Directory included"	Y	1	2	Y	N	0f_gen	LT
+713	BLOG	"they are also charged with the use of marijuana   on   top	of	their   intoxication   with  it while driving . While there is an"	N	2	1	N	N	0f_gen	OT
+714	BLOG	"consider : type of job , type of industry   ,   type	of	company   ,   career  path , job structure , work hours , travel"	N	1	1	N	N	0f_gen	OT
+715	ACAD	"-carotene-3,3 ' -diol.C40H56O2 , molecular wt. 568.9   are   types	of	xanthophylls   (  Faulks  , et al , 2001) . Dark green"	N	1	1	Y	N	0f_gen	LT
+716	ACAD	"decisions of potential students in such a way that   certain   types	of	students   (  with  respect to retainability) decide to enter the"	Y	1	2	Y	N	0f_gen	LT
+717	BLOG	"technologies to : # Incorporate more   problem-oriented   types	of	material   into   lesson  plans , including simulations and studies"	N	1	2	N	N	0f_gen	OT
+718	NEWS	"said the process should be private . # ''   These   types	of	things   should   n't  be played out in the press ; they should"	N	1	1	Y	N	0f_gen	LT
+719	ACAD	"followed . Rubin and Rubin suggested the use of   three   types	of	qualitative   questions   :  main questions , probe questions , and"	N	2	2	Y	N	0f_gen	LT
+720	ACAD	"'s report of June 1867 neatly summarizes   his   understanding	of	Tolkepaya   leadership   .   # The majority of this tribe , however ,"	N	2	1	N	N	0f_gen	LT
+721	WEB	"index 's referenced object store , such as   requiring   uniqueness	of	the   values   referenced  by the index 's keyPath . If the referenced"	N	2	1	Y	N	0f_gen	OT
+722	ACAD	"and Technology will provide a status report on the   expanded   use	of	high-sulfur   ,   low-fusion  coals in utility boilers , and will"	N	1	3	N	N	0f_gen	LT
+723	ACAD	"by environmentalists that the trade regime discourages   the   use	of	information   about   the  environmental impact of various"	N	1	2	N	N	0f_gen	LT
+724	BLOG	"is surprising how often this happens . # Limit   the   use	of	all   types   of  fabric softeners . Especially avoid liquid fabric"	N	5	2	Y	N	0f_gen	OT
+725	ACAD	"studies were deemed sufficient to warrant the ban on   the   use	of	DDT-containing   agents   .  But recent research does not support"	N	2	2	Y	N	0f_gen	LT
+726	ACAD	"III are spelled out in much greater detail regarding   the   use	of	product   standards   ,  including the requirement that such"	N	2	2	Y	N	0f_gen	LT
+727	WEB	"access to free contraception would make women much   better   users	of	contraception   should   n't  be a surprise , and for"	N	1	3	N	N	0f_gen	OT
+728	ACAD	", '' the constitutional design of public power ,   the   validity	of	the   universal   moral  law , the protection of general human and"	N	4	2	N	N	0f_gen	LT
+729	WEB	"demolished '' economism , '' showing it to be   a   variant	of	international   opportunism   ,  or Bernsteinism . The book was"	N	2	2	N	N	0f_gen	OT
+730	BLOG	"in slightly different guises today . Beneath the   thin   veneer	of	civilisation   lurk   primitive  irrational tendencies and ideas"	N	1	3	N	N	0f_gen	OT
+731	WEB	"same thought last night . 1 in 4 women   are   victims	of	sexual   assault   .  Well , lucky me that I 've never been"	N	2	1	N	N	0f_gen	OT
+732	ACAD	"of the clock upon the mantel , and of   the   watches	of	the   attendants   .  Their tickings came sonorously to my ears . The"	Y	2	2	Y	N	0f_gen	LT
+733	NEWS	"age 35 . Although the study did not track   the   weights	of	mothers   ,   it  concluded that obesity was probably the principal"	Y	1	2	Y	N	0f_gen	LT
+734	ACAD	"and circumstances have changed , the   general   well-being	of	most   of   the  species has improved . # It was Thomas Malthus"	Y	4	3	Y	N	0f_gen	LT
+735	NEWS	"pretzel , a bagel and a bun to explain   the   work	of	three   scientists   who  won the 2016 Nobel Prize in physics . ("	Y	2	2	Y	N	0f_gen	LT
+736	ACAD	"negations of conscience and practice is necessarily   the   work	of	a   revolutionary   project  . This revolutionary project is by no"	N	3	2	N	N	0f_gen	LT
+737	BLOG	"A wonderful landscaping is the main topic of pictures   ,   works	of	art   and   also  sculpture . Having a beautiful scenery obvious out"	N	4	1	N	N	0f_gen	OT
+738	WEB	"tropical ? What you 'll get is the ''   stability   ''	of	a   mostly   desert  planet . # You are living in a fantasy"	N	4	1	N	N	0f_gen	OT
+739	BLOG	"# Billions of people have agreed about '' this   version   ''	of	God   for   thousands  of years . Perhaps other versions are of"	N	1	2	N	N	0f_gen	OT
+740	NEWS	"2017 # By The New York Times # But here on the far western end of the nation's biggest and most rural state, where roads are nearly nonexistent and"	N	6	1	N	Y	0f_gen	LT
+741	WEB	"measures to confront any dangers threatening the January 25 revolution, the life and safety of the nation, national unity or standing in the way of state institutions in performing"	N	2	3	N	N	0f_gen	OT
+742	NEWS	"By 2010 they took in 31 percent. Over the same period, the slice of the nation's income taken by the bottom half of the population fell to 17"	N	3	2	N	N	0f_gen	LT
+743	BLOG	assuming that some of those have decreased and increased in relevance to the general tone of the nation. Your use of the words' conspiracy theorists' is a lowly	N	2	3	N	N	0f_gen	OT
+744	WEB	"than 30 trillion gallons of toxic liquid deep into the earth, using broad expanses of the nation's geology as an invisible dumping ground. # No company would be"	N	3	2	N	N	0f_gen	OT
+745	NEWS	"he has two goals as a central banker: First, to protect the stability of the nation's financial system so that events such as the stock market crash of"	N	4	2	N	N	0f_gen	LT
+746	WEB	"to take a seat in the National Assembly which, therefore, reflected the will of the nation in a statistically significant sense. The National Assembly convened for a day"	N	2	2	N	N	0f_gen	OT
+747	ACAD	"Roper. 2014. "" Healthy People 2020: A Report Card on the Health of the Nation. "" Journal of the American Medical Association 311 (24):"	N	2	2	N	N	0f_gen	LT
+748	BLOG	"stable to clean it of its detritus and rot. # Talk about a CHANGE of the nation, How in God's name was America once known as the Home"	N	2	2	N	N	0f_gen	OT
+749	WEB	"19, near Oakton, Indiana. The corn and soybean belt in the middle of the nation is experiencing one of the worst droughts in more than five decades."	N	2	2	N	Y	0f_gen	OT
+750	BLOG	"want something more for nothing. Most of their hourly labor pool in many areas of the nation are barely functional illiterates yet, so many demand wages and benefits of"	N	2	2	N	Y	0f_gen	OT
+751	ACAD	", and reconstruct cultural identities. This process has been going on since the founding of the nation, long before multiculturalism was an issue for debate. For African Americans"	N	2	2	N	N	0f_gen	LT
+752	BLOG	"and dangerous change in the conduct of the electorate. You object to the conflation of the nation with a few of its citizens. Fair enough, but I'm"	N	2	2	N	N	0f_gen	OT
+753	ACAD	"of the South, "" writes Percy, will become "" the virtues and faults of the nation, no more no less "" (80). As such,"	N	2	4	N	N	0f_gen	LT
+754	NEWS	"and lower-margin orders will pressure third-quarter earnings. # MONEY SUPPLY FALLS: The measure of the nation's money supply known as M2 fell to a seasonally adjusted $ 3,748.8"	N	4	2	N	N	0f_gen	LT
+755	WEB	Federal Reserve System with a wealth of information on economic conditions in virtually every corner of the nation. This information is used by the Federal Open Market Committee (FOMC	N	2	2	N	Y	0f_gen	OT
+756	NEWS	"school educators in an unfamiliar and sometimes uncomfortable role. # In Milwaukee, home of the nation's largest voucher program, the public school district loses money for every"	N	5	1	N	N	0f_gen	LT
+757	ACAD	"era of village harmony and righteous government, one in which kings ensured the prosperity of the nation by their devotion to Buddhist precepts and the welfare of the people."	N	2	2	N	Y	0f_gen	LT
+758	WEB	"Nixon campaign constituted a gross, even potentially illegal, interference in the security affairs of the nation by private individuals. Perhaps aware of the slight feebleness of his"	N	2	3	N	N	0f_gen	OT
+759	ACAD	". The Shenandoah Council of Shenandoah, Iowa reported that Catholics had from the beginning of the nation to the present day "" mingled their blood with that of Protestants on"	N	2	2	N	Y	0f_gen	LT
+760	ACAD	"a similar context.98 As searchable databases make available more and more access to digitized versions of the nation's historic newspapers, researchers can reach out elsewhere into the country to"	N	4	2	Y	N	0f_gen	LT
+761	NEWS	"instance, "" Dr. Goins, 46, said as he navigated the annual meeting of the nation's mathematicians in Baltimore last month. "" But even for myself I"	N	3	3	Y	N	0f_gen	LT
+762	BLOG	"the Safe Drinking Water Act. These laws must be updated to ensure the integrity of the nation's water resources, protect the public against new contaminants, help meet"	N	4	2	Y	N	0f_gen	OT
+763	ACAD	city were part of a larger movement of urbanization that would transform the very nature of the nation by the mid- twentieth century. As an increasing number of Indians lefttheir	N	2	3	N	N	0f_gen	LT
+764	NEWS	"total of 19 points. Two of the five losses came in the final minute of the game. # Derrick Brown, who last week rushed for 105 yards and"	N	2	3	N	Y	0f_gen	LT
+765	BLOG	publishing agreement. I can tell you that KP knew full well what the state of the game was at release. I'm probably breaking my NDA by telling you	N	2	2	N	N	0f_gen	OT
+766	WEB	"fun toys and the game, but in order to get into all the areas of the game, you must buy more 8 dollar action figures. Most diabolical.The only"	N	2	2	N	N	0f_gen	OT
+767	NEWS	"usual. You know, it's the Super Bowl. You know the impact of the game, but everything was the same up until you get to the stadium"	N	2	2	N	N	0f_gen	LT
+768	BLOG	"right that wrong. # There isn't much to say about the set up of the game. It's pool, plain and simple. But in order to"	N	2	3	N	N	0f_gen	OT
+769	BLOG	's a 60 minute game. We won a couple games on the last play of the game. Take those. Had a game like Jacksonville where we put it	N	2	3	N	N	0f_gen	OT
+770	BLOG	tosses endanger spectators? It's a fiasco when you have to alter the rules of the game in order to play a major championship at a certain venue. It	N	2	2	N	N	0f_gen	OT
+771	BLOG	to make getting full marks on everything pretty much impossible. # The commission section of the game is also incredibly short. You get to fashion about a dozen pots	N	2	3	N	Y	0f_gen	OT
+772	NEWS	"male and female, she is consistently cited by poker Web sites and expert followers of the game as one of the top 10 female players. It is a status"	N	2	2	N	N	0f_gen	LT
+773	BLOG	"sorted himself out when he left our guild for bigger game. # The age of the game is a factor, too. The longer the game lives, the"	N	2	2	N	N	0f_gen	OT
+774	WEB	"program, the Iranians will respond to escalation with escalation. # If the name of the game is to harm the other side, then both countries can clearly play"	N	2	2	N	N	0f_gen	OT
+775	BLOG	"or not these social constructs cause more damage than good. But at this stage of the game it doesn't matter, that debate will go on much ad infinitum"	N	2	2	N	N	0f_gen	OT
+776	NEWS	"we don't eat by 2, we're going to miss the first half of the game. "" # What is it about Home that distances us even as"	N	2	3	N	Y	0f_gen	LT
+777	BLOG	"may simply be that a perfect storm of coincidences took place and the random nature of the game genuinely did throw a lot of b-bombs at you, and that then"	N	2	3	N	N	0f_gen	OT
+778	BLOG	", the game length extends greatly. Players have some control as to the pace of the game -- an icon on the remaining die indicates how far the seasonal clock"	N	2	2	N	N	0f_gen	OT
+779	BLOG	"that if you don't kill anyone, or keep kills low, the ending of the game will be brighter. # Can you tell us how many endings there"	N	2	2	N	Y	0f_gen	OT
+780	WEB	"the whole game. He keeps his head under pressure situations. In every aspect of the game, he does what his team needs to win. "" # John"	N	2	2	N	Y	0f_gen	OT
+781	NEWS	"points early in the game, usually seem to need that point at the end of the game. It happened with the Broncos on Sunday. After cornerback Ray Crockett"	N	2	2	N	Y	0f_gen	LT
+782	BLOG	"# "" I was kind of worried that, if that was the final score of the game, it'd be on me. I was just upset, """	N	2	3	N	N	0f_gen	OT
+783	NEWS	"playoffs. For a lot of years, Michael would go from the first minute of the game until the 48th trying to school you and every player on the court"	N	2	3	N	Y	0f_gen	LT
+784	BLOG	"able to see through the slick recruiting circus almost immediately, digesting the business side of the game in ways that most couldn't. "" Sometimes they brought me in"	N	2	3	N	N	0f_gen	OT
+785	WEB	"repeat information to another person even in the same language; the typical botched results of the game "" telephone "" underscore the difficulty of the task. (As an"	N	2	4	N	N	0f_gen	OT
+786	NEWS	"misery, while scavenging whatever you can to survive. As much as the point of the game is to escape, you can't help but want to prolong a"	N	2	2	N	N	0f_gen	LT
+787	NEWS	"should be considered is absurd, especially when starting pitching is the most important element of the game. The Red Sox are going to the playoffs because of one man"	N	2	4	N	N	0f_gen	LT
+788	BLOG	"from the folks who originally brought you Dixit. # The cards are the meat of the game -- providing victory points (referred to as crystals throughout), special"	N	2	2	N	N	0f_gen	OT
+789	BLOG	-- a game that's more of a beta than anything. # The premise of the game is simple -- it offers a first-person perspective of someone in a stretch	N	2	2	N	N	0f_gen	OT
+790	ACAD	". # Americans are litigators. We are the most litigious people on the face of the earth. The lawyers here know that. On any given day, a"	N	2	2	N	Y	0f_gen	LT
+791	ACAD	First team to build a probe that makes it all the way to the center of the earth with a communication system capable of sending real-time sensory data to the surface	N	2	2	N	Y	0f_gen	LT
+792	WEB	", messages that would get them Whuffie with people who thought I was the scum of the earth. A popular view, those days. # I got out of"	N	2	2	N	N	0f_gen	OT
+793	BLOG	's a notable increase in earthquakes when the moon and sun are on opposite sides of the Earth. That makes intuitive sense -- the moon and sun are pulling the	N	2	2	N	Y	0f_gen	OT
+794	WEB	"rather than fundamental physics. # Similarly, if counting SI seconds on the surface of the earth, the number of leap seconds from year 0000 (or 0001)"	N	2	2	N	Y	0f_gen	OT
+795	WEB	"said "" fuck it "", flew out of the water, broke the bounds of the earth's atmosphere and set a course for the center of the Sun."	N	3	2	N	N	0f_gen	OT
+796	WEB	"saith, it is not in me,.... That is, the deep places of the earth, that are dug in it, the mines, and the like"	N	2	3	N	Y	0f_gen	OT
+797	WEB	"day conditions, when it is so easy to communicate with the most distant parts of the earth and to secure a literally universal promulgation of papal acts, the presumption"	N	2	4	N	Y	0f_gen	OT
+798	WEB	stated in Gen 1:22 regarding the sea creatures and birds and implied regarding the beasts of the earth in the language of' after their kind' in Gen 1:24-25.	N	2	2	N	N	0f_gen	OT
+799	ACAD	to make. # By Lester R. Brown # # Lester R. Brown is president of the Earth Policy Institute. This article is adapted from his recently released book Plan	N	4	1	N	N	0f_gen	LT
+800	NEWS	""" First, if there is a better actor or actress living on the face of the Earth than Vanessa Redgrave, I don't know who it is. She"	N	2	2	N	Y	0f_gen	LT
+801	NEWS	"around his home. The Arlington National Cemetery began as if it were a salting of the earth. # Now it is much more, of course, and Lee"	N	2	2	N	N	0f_gen	LT
+802	BLOG	"some new observations. # Last topic: here's an object about the size of the Earth, and there seems to be "" lots "" of oxygen around."	N	2	2	N	N	0f_gen	OT
+803	WEB	seconds in a year (pi x 107) and divide by the surface area of the earth; and the result is the mean global temperature averaged over a full	N	2	3	N	Y	0f_gen	OT
+804	BLOG	coming in the clouds to gather his faithful and chosen ones from the four winds of the earth (Mark 13:26-27). # The heart of this powerful apocalyptic device	N	2	3	N	N	0f_gen	OT
+805	BLOG	at 3:13 PM on November 17 # justsomebody: nice catch on measuring the size of the Earth. They were able to do that because the Sun was directly overhead	N	2	2	N	N	0f_gen	OT
+806	WEB	"the coals which he makes use of for that purpose, dug from the bowels of the earth, and brought to him perhaps by a long sea and a long"	N	2	2	N	N	0f_gen	OT
+807	BLOG	does not try to justify her Black slave for justice and equality among the nations of the earth. America made us into nothing and she used us to mock us	N	2	2	N	N	0f_gen	OT
+808	WEB	"the dust of the earth; so that if a man could number the dust of the earth, then your descendants also could be numbered "" (13:14 -- 16"	N	2	2	N	N	0f_gen	OT
+809	ACAD	"almost 318 times the mass of the Earth. It is 11.18 times the diameter of the Earth, and if it were hollow, you could pack 1,397 Earths inside"	N	2	2	N	N	0f_gen	LT
+810	WEB	"carbon dioxide and other trace gases. Without a natural greenhouse effect, the temperature of the Earth would be about zero degrees F (-18C) instead of its present"	N	2	2	N	N	0f_gen	OT
+811	WEB	"well-known Elseworlds comic, Superman: Red Son has a slight difference in the rotation of the Earth as the "" nail "", so Superman lands in the Soviet Union"	N	2	2	N	N	0f_gen	OT
+812	NEWS	"some of which contain cooked wheat berries or rice, the grains symbolizing the rebirth of the earth in the spring. Most notable among these is the Pastiera Napoletana,"	N	2	2	N	N	0f_gen	LT
+813	ACAD	First team to build a probe that makes it all the way to the center of the earth with a communication system capable of sending real-time sensory data to the surface	N	2	2	N	Y	0f_gen	LT
+814	WEB	", messages that would get them Whuffie with people who thought I was the scum of the earth. A popular view, those days. # I got out of"	N	2	2	N	N	0f_gen	OT
+815	WEB	"saith, it is not in me,.... That is, the deep places of the earth, that are dug in it, the mines, and the like"	N	2	3	N	Y	0f_gen	OT
+816	WEB	"day conditions, when it is so easy to communicate with the most distant parts of the earth and to secure a literally universal promulgation of papal acts, the presumption"	N	2	4	N	Y	0f_gen	OT
+817	NEWS	"and community events, Mr. Tall is a grass-roots advocate for self-sufficiency and the importance of growing fresh organic produce at home, even if you live in the city."	N	4	2	N	N	0f_gen	LT
+818	ACAD	"surrounding EDENs # Understanding the importance of EDENs for ecology begins with understanding the importance of distributing measurements across space. First, testing relationships across multiple sites and regions is"	N	2	2	N	N	0f_gen	LT
+819	ACAD	"within the PRI and of the outgoing President himself. In effect, the importance of public opinion to elections, as it is generally understood in the United States for"	N	2	2	N	N	0f_gen	LT
+820	ACAD	had an important point in mind. The only point I see is the importance of true revisions. But how do these revisions fit within the specification relation in contrast	N	2	2	Y	N	0f_gen	LT
+821	ACAD	"1980's, where the rate is somewhat higher. The findings demonstrate the importance of drilling down to specific disciplines in order to better understand retention of engineers. Overall"	N	5	2	Y	N	0f_gen	LT
+822	ACAD	and those in the practice setting require the practitioner to make judgments about the importance of these differences. Various sources of evidence could inform these judgments. The practitioner could	N	2	2	Y	N	0f_gen	LT
+823	WEB	Vietnamese in the United States. # The case of the Vietnamese illustrates the importance of Texas as a point of access even for members of these more distant national-origin groups	N	1	2	Y	N	0f_gen	OT
+824	NEWS	"first Latin American pontiff, Francis may also try to discuss with Trump the importance of issues facing that region. # "" Really, right now, the crisis in"	N	1	2	N	N	0f_gen	LT
+825	NEWS	"New York Times article in 1996, suggested that she may have overstated the importance of the physical form of cities. # "" Sometimes big, ugly high-rise towers work"	N	5	2	Y	N	0f_gen	LT
+826	NEWS	"of law.... A Unified Germany # On Germany, I emphasized the importance of a unified Germany being in NATO, seeing this as a prescription for longterm stability"	N	3	2	N	N	0f_gen	LT
+827	WEB	"but agrees with it. # 12:22 p.m.: Andres is impassioned about the importance of the farm bill, and suggests that a smart policy is basically preventative medicine,"	N	3	2	N	N	0f_gen	OT
+828	NEWS	"Anderson said it will be important for the district to show the community the importance of high school athletics. He cited studies that showed decreased drug use, increased attendance"	N	3	2	Y	N	0f_gen	LT
+829	ACAD	"4-year college (Oakes, Gamoran, &; Page, 1992). The importance of persistence in high school mathematics was demonstrated by Trusty and Niles (2003),"	N	1	2	Y	N	0f_gen	LT
+830	ACAD	et al. A qualitative study of quality of life after stroke: the importance of social relationships. J Rehabil Med 2008; 40: 518-23. Galvin RD Researching	N	2	2	Y	N	0f_gen	LT
+831	NEWS	""" # As head of Pantone, Eiseman wants the public to know the importance of color -- how it permeates almost every aspect of life and the meaning it holds"	N	1	2	N	N	0f_gen	LT
+832	ACAD	's disease and autoimmune rheumatic disorders may share a common aetiology and stress the importance of following these patients for several years to diagnose autoimmune disorders early as prognosis and management	N	3	2	Y	N	0f_gen	LT
+833	WEB	"collision course. Federal spending will decrease in the coming years, yet the importance of boosting our nation's science and economic competitiveness can not be overstated. How do"	N	7	2	Y	N	0f_gen	OT
+834	ACAD	"in improved reading fluency when compared with the control condition, perhaps reflecting the importance of vocabulary knowledge in the reading of science text. Science text contains a large number"	N	2	2	N	N	0f_gen	LT
+835	BLOG	"sharing my own story in the hopes that it will help others understand the importance of becoming an ally. # When I was three years old, my mother left"	N	3	2	N	N	0f_gen	OT
+836	ACAD	"alcohol and drug field has matured greatly, a difficulty remains in understanding the importance of systems of care, rather than individual agencies, in understanding the interface between research"	N	3	2	N	N	0f_gen	LT
+837	ACAD	. Following these sections will be a discussion of the field test. The Importance of Music # Young people frequently define themselves to an extraordinary degree by the kind of	N	1	2	N	N	0f_gen	LT
+838	ACAD	"Making the Most of Open-Ended Prompts # Teachers have become increasingly aware of the importance of presenting open-ended prompts. However, given recent data on the absence of child talk"	N	3	2	Y	N	0f_gen	LT
+839	ACAD	"advocacy. In addition to emphasizing systemic needs, the participants believed in the importance of a CDSCP and in their abilities to implement it (school counselor self-efficacy)."	N	2	2	N	N	0f_gen	LT
+840	WEB	acids in as perfect a ratio to meet human nutritional needs. # The importance of hemp seed nutrients to human health can not be fully appreciated without some understanding of	N	3	2	Y	N	0f_gen	OT
+841	WEB	"photographers using large cameras and those using small cameras and try to examine the importance of the choice of tools to the photographer. Does the tool drive the idea,"	N	2	2	Y	N	0f_gen	OT
+842	NEWS	# Health care providers and their staff need to talk with parents about the importance of immunization and be willing to answer their questions about vaccine risks and benefits. Every	N	1	2	N	N	0f_gen	LT
+843	WEB	"to concede that that's true. However, while many people acknowledge the importance of a good breakfast, very few actually partake in the first meal of the day"	N	3	2	N	N	0f_gen	OT
+844	ACAD	remittance market in New Zealand. Part HI discusses how Bitcoin works and the importance of its underlying blockchain technology. Part IV looks at how Bitcoin has the potential to	N	4	2	N	N	0f_gen	LT
+845	ACAD	", and provide therapeutic challenges. Their pervasive nature and biological significance emphasise the importance of a careful oral examination as part of the general clinical evaluation. # The years"	N	4	2	N	N	0f_gen	LT
+846	BLOG	an example to point out how the analytical Sandy Alderson fails to recognize the importance of the human ingredient. Shipping off Beltran and KRod in 2011 was a morale breaker	N	3	2	N	N	0f_gen	OT
+847	ACAD	"participants were academically engaged when they found their academic work intellectually challenging. The importance of academic challenge was expressed by Julia, a 27-year-old junior: # I don't"	N	2	2	N	N	0f_gen	LT
+848	ACAD	". Conservative management should also include a medication review, and advice on the importance of regular sexual intercourse (every 2-3 days). # NICE provides comprehensive guidelines on"	N	3	2	Y	N	0f_gen	LT
+849	WEB	in respect to which the opinions of expositors have been more divided. The importance of the passage Job 19:25-27 has contributed much to the anxiety to understand its meaning -	N	3	2	N	N	0f_gen	OT
+850	BLOG	whatever is the mode of transportation. 69 comments to Mikulski on the importance of safety and astronaut destinations # It is a safe bet that as long as astronaut	N	1	2	Y	N	0f_gen	OT
+851	ACAD	"of economic problems on the continent on a long-term basis, by downplaying the importance of political integration on the continent, it fails to meet all the requirements for the"	N	5	2	N	N	0f_gen	LT
+852	BLOG	"then, which you can read in full here, he talked about the importance of storytellers in education, and said "" It? s scary to think of our"	N	1	2	Y	N	0f_gen	OT
+853	WEB	", and After the Interview. -- In Chapter One, Epstein highlights the importance of Creating Right Livelihood in order to craft a satisfying and financially productive career. He"	N	3	2	N	N	0f_gen	OT
+854	BLOG	"to emerge from a more distributed network. # "" their ideas about the importance of individual liberty, their suspicion of the state, and a great deal of their"	N	2	2	N	N	0f_gen	OT
+855	WEB	"healing. One problem with integrative medicine is that most doctors will acknowledge the importance of the obvious - vitamins, minerals, Omegas, etc... but often do not"	N	2	2	Y	N	0f_gen	OT
+856	WEB	neurological disorders is central to the mission of NINDS. This Notice highlights the importance of well-designed preclinical studies as the foundation for translating basic research discoveries into such treatments.	N	3	2	Y	N	0f_gen	OT
+857	ACAD	"and I kind of knew what we were getting ourselves into, "" the importance of professional development is obvious and crucial. Penuel's (2006) synthesis of research"	N	2	2	N	N	0f_gen	LT
+858	BLOG	"We'll pick up where we left off the last post, discussing the importance of feedback, and then we'll look at the discussions around the Ribbon, Metro"	N	1	2	N	N	0f_gen	OT
+859	ACAD	mode. And those of us in the positivist camp should not underestimate the importance of this impact. We are witnessing an influx of intellectual ability unprecedented in the history	N	2	2	N	N	0f_gen	LT
+860	ACAD	"these events is lost on no one. In a clear demonstration of the importance of the Games, the newly elected prime minister, Gostas Karamalis, appointed himself culture"	N	2	2	Y	N	0f_gen	LT
+861	ACAD	"or family and this may be private or public. With regards to the importance of archival materials and their enduring value, they are preserved and used as evidence of"	N	2	2	Y	N	0f_gen	LT
+862	BLOG	"we work. It was also thought that the pronunciation was suggestive of the importance of women's land rights, which has been a major issue in our work since"	N	3	2	Y	N	0f_gen	OT
+863	WEB	"(Meanwhile, as Kleck notes, anti-gun control forces wax eloquent about the importance of individual rights and the dangers of overbearing law enforcement officials--complaints that are conspicuous by their"	N	2	2	Y	N	0f_gen	OT
+864	WEB	"saying there are no qualitative differences--after the opportunity for economic freedom diminishes--necessarily trivializes the importance of economic freedom. # Philosophically, Obama wants to treat rich people like black people"	N	2	2	N	N	0f_gen	OT
+865	ACAD	categories -- below only religious subjects and didactic human figures -- because of the importance of architecture in human life and the difficulty in painting it. (n94) With further	N	1	2	N	N	0f_gen	LT
+866	ACAD	"the state. Furthermore, despite a right to possessions doctrine that reflects the importance of individuals' subsistence, the Court declined to distinguish the situation of the individual plaintiffs"	N	2	2	Y	N	0f_gen	LT
+867	ACAD	"the wits to run your rightful kingdom "" (44). # The importance of strength is apparent, too. The cardinal virtue of King Helgi, the father"	N	1	2	N	N	0f_gen	LT
+868	ACAD	frequently than those who are not highly involved. These finding's reveal the importance of professional organizations as providing a network of fellow school librarians to learn from and share	N	2	2	Y	N	0f_gen	LT
+869	WEB	"right solution is developed and delivered for the need, whilst also recognising the importance of local contextual considerations. Box 3. Suggested seven steps from statement of a"	N	3	2	Y	N	0f_gen	OT
+870	NEWS	"relocate this year. # Some parents remain skeptical. "" We understand the importance of quality and variety in education and wish Whittle success in launching his school, but"	N	1	2	N	N	0f_gen	LT
+871	ACAD	"# A second lesson to be learned from the Proposition 187 battle is the importance of political parties in the immigration controversy. Recent votes in Congress, as well as"	N	2	2	Y	N	0f_gen	LT
+872	ACAD	"of aggregate financial assets to the performance of the real economy and stressed the importance of capital market forecasts' being "" macroconsistent "": Long-run growth expectations for financial assets"	N	5	2	Y	N	0f_gen	LT
+873	ACAD	". This is a fine sentiment, but it tends to play down the importance of the cultural differences highlighted by Snow, and to ignore the moral and political challenges"	N	3	2	Y	N	0f_gen	LT
+874	NEWS	"laws to be broken for him. "" # Simeus tries to downplay the importance of his American consultants. Instead, he talks of team building, transparency, and"	N	3	2	Y	N	0f_gen	LT
+875	BLOG	"During demonstrations in 2011 as part of Occupy LA, Durazo spoke about the importance of labor unions and for workers to be treated with respect. "" Men and women"	N	2	2	Y	N	0f_gen	OT
+876	WEB	presentation for all important topic areas where debriefing is a primary variable. The importance of a format for reporting data on debriefing in a research context was realized and a	N	2	2	N	N	0f_gen	OT
+877	NEWS	"# Makes 9 1/2-cup servings. 71177 # Creative writing teacher Wally Lamb stresses the importance of revision and turns his classroom into a workshop, where students critique each other's"	N	1	2	N	N	0f_gen	LT
+878	ACAD	"his or her act of reading, to any interpretive results; thus the importance of interpretation as an elementary tool for explanation must be emphasized. The explanation lies primarily"	N	1	2	N	N	0f_gen	LT
+879	ACAD	"mechanics influence collective cell migration in vivo remains unknown. Here we investigated the importance of mechanical cues in the collective migration of the Xenopus laevis neural crest cells, an"	N	2	2	Y	N	0f_gen	LT
+880	ACAD	"is an attempt to "" examine the elderly themselves "" and to stress the importance of their personal experience. There is, however, more to it than that."	N	3	2	Y	N	0f_gen	LT
+881	ACAD	"side by side, for comparison perhaps, but also to make plain the importance of contiguity, indeed to see what happens when metaphoric connections are inflected and contaminated by"	N	1	2	N	N	0f_gen	LT
+882	WEB	"that you can easily void with stress and/or poor sleep. # Given the importance of sleep, unless you are a "" natural "" and rarely get a bad night"	N	1	2	N	N	0f_gen	OT
+883	ACAD	"the teachings of Ramtha. "" 61 # Dr. Harris's testimony also illustrates the importance of altered states of consciousness (ASC) and their posited consequences in terms of delusional"	N	4	2	Y	N	0f_gen	LT
+884	ACAD	". "" Another commented, "" the tapes also helped me to understand the importance of precise and clearcut instructions. "" A third student felt the the tapes were beneficial"	N	4	2	Y	N	0f_gen	LT
+885	ACAD	"of physics and chemistry. If self-organizing mechanisms are intrinsic properties, then the importance of natural selection to the evolutionary process would be drastically decreased. However, as we"	N	2	2	N	N	0f_gen	LT
+886	BLOG	". # Many science policy advocates in Washington, DC, further note the importance of quick and respected appointments to senior S &T; positions. One long-time science-policy watcher reflected"	N	4	2	Y	N	0f_gen	OT
+887	ACAD	"Like wuxia stars, Lee, and Chan, Sing is placed in the center of the frame, his enemies encircling him as he fights them off one-by-one. In"	N	2	2	N	Y	0f_gen	LT
+888	NEWS	"size of a coconut, light-gray and gooey. He placed it on the center of a wheel the diameter of a manhole cover. Smith switched on the wheel's"	N	2	2	N	Y	0f_gen	LT
+889	BLOG	"3266639 Log jam at the center of current 2013 NFL Draft order # After nine weeks of the season, there is"	N	5	2	N	N	0f_gen	OT
+890	WEB	"2007 in the newly rejuvenated Branson Landing district, you will be in the center of the action for your two nights in town. Within walking distance of the historic"	N	2	2	N	N	0f_gen	OT
+891	ACAD	"the hill, and I was already doing it. I stepped into the center of the road and waved my arms like a maniac. I saw myself in the"	N	2	2	N	Y	0f_gen	LT
+892	ACAD	"does occur. During adolescence, for example, the prefrontal cortex (the center of reasoning and impulse) is still "" a work in progress "" (PBS,"	N	3	2	Y	N	0f_gen	LT
+893	ACAD	"he used the notoriously jammed Oj? l? gba traffic junction at the center of the city as the core of confusion not only in the city, and in"	N	2	2	N	Y	0f_gen	LT
+894	ACAD	"ethical standards and from where those standards come. Because student-athletes are often the center of ethical controversies, it is important to investigate whether student-athlete beliefs are consistent with the"	N	2	2	Y	N	0f_gen	LT
+895	ACAD	"power in their favor.11 In this sense, religion is shifting away from the center of the domestic narrative. In time, this may help produce a less Islamist government"	N	3	2	N	N	0f_gen	LT
+896	NEWS	and even flow beneath the balmy Caribbean Sea. Now Antarctica is at the center of an ominous inadvertent global experiment. The ozone layer has thinned drastically over the southern	N	5	2	N	N	0f_gen	LT
+897	WEB	"the fat spine of stars going down the middle of the firmament, the center of the galaxy. The sight reminded him of a story he had read, about"	N	2	2	N	Y	0f_gen	OT
+898	BLOG	"flooding in Florida, North Carolina and Virginia, these impacts occurring despite the center of circulation being so far offshore, an indication of Sandy's exceptional size and potency"	N	1	2	N	Y	0f_gen	OT
+899	ACAD	"of the humans, those who at any point are sitting silent in the center of the circle, listening to the other beings. # We hear you, fellow-creatures"	N	2	2	N	Y	0f_gen	LT
+900	WEB	"is true, We need to re-elect bush to begin deploying troops to the center of the Earth to retrieve HIDDEN weapons of mass destruction. As Bush would say,"	N	2	2	N	Y	0f_gen	OT
+901	NEWS	", or until the top is deep brown and a toothpick inserted near the center of the cake comes out clean. # Let cake rest in pan at room temperature"	N	2	2	N	Y	0f_gen	LT
+902	ACAD	"Figure 2, Center Image has been checked which positions the image at the center of the sheet. The preferred procedure is to resize the image to the desired print"	N	2	2	N	Y	0f_gen	LT
+903	NEWS	"from a small farming community to a highly populated community and will become the center of the Greater Houston metropolitan area within the next 20 years, "" Hegar said."	N	5	2	N	Y	0f_gen	LT
+904	WEB	"The teacher's role changes as well. The teacher is no longer the center of attention as the dispenser of information, but rather plays the role of facilitator,"	N	1	2	N	N	0f_gen	OT
+905	BLOG	year too. # DL # Jay Ratliff is a reliable clog in the center of the Cowboys' 3-4 defensive scheme. The Cowboys also feature former Brown Kenyon Coleman	N	5	2	N	N	0f_gen	OT
+906	BLOG	"high density urban development paid for by your tax dollars right there in the center of your town. This is a global governance plan, it is designed to create"	N	2	2	N	N	0f_gen	OT
+907	BLOG	"set mostly in Warsaw in 1937, with the French military attache at the center of a complex cast of characters. Furst is the master of atmospherics, of recapturing"	N	5	2	Y	N	0f_gen	OT
+908	WEB	"I have a very, very famous friend. My friend is at the center of a whirlwind of activity, publicity, and the production of potential income-generating activities."	N	4	2	N	N	0f_gen	OT
+909	WEB	"pretty wonderful to read a book that's set in MY world. The center of the story is an Alternate Reality Game, or ARG, and many of the"	N	2	2	N	N	0f_gen	OT
+910	BLOG	"thin clouds illuminated by moonlight and many bright stars were visible. In the center of the scene was a wide volcanic pit, maybe 8 feet across, and flames"	N	2	2	N	Y	0f_gen	OT
+911	NEWS	"the verve that, to some, once made it the center of the center of the world. A New Business Hub # Even as New York City reels from"	N	2	2	N	Y	0f_gen	LT
+912	ACAD	"directly below it they call Crucero, which is also considered to be the center of the village of Mismanay. It is marked by the intersection of the two main"	N	4	2	N	Y	0f_gen	LT
+913	BLOG	"Wilson wanted the college to be a scholarly model of learning placed in the center of campus for all to see, while West wanted it to be located off the"	N	1	2	Y	Y	0f_gen	OT
+914	ACAD	"from the Plains Indians. Pecos, the Spanish soon learned, was the center of trade on the eastern fringe of the Pueblo country. The Pueblos and Plains Indians"	N	1	2	N	N	0f_gen	LT
+915	BLOG	"able to enjoy our wedding day, and not feel overwhelmed by being the center of attention. We compromised by having a smaller ceremony/sit-down dinner on a Friday night ("	N	1	2	N	N	0f_gen	OT
+916	ACAD	"a recent uplift of the Alps, whereby "" a great elevation of the center of the chain broke off the ice and dislodged the glaciers, "" thereby sending them"	N	2	2	N	Y	0f_gen	LT
+917	WEB	"moving in the direction of least resistance. These particles will move to the center of a larger particle; only then, to be pushed out again by other particles"	N	3	2	N	Y	0f_gen	OT
+918	WEB	"proved the indispensable quality and power of helicopters, and this innovation became the center of strategic operations in subsequent conflicts. innovations: 1952: Improved Body Armor #"	N	2	2	Y	N	0f_gen	OT
+919	ACAD	"be inseparable from matter, and it follows that matter is present in the center of the circle, and therefore capable of compenetration, and therefore non-extended (f. 9"	N	2	2	N	Y	0f_gen	LT
+920	NEWS	"in federal mortgage insurance and loan programs. "" These things were on the edge of solvency when the economy was decent, "" said Ronald Utt, a policy analyst"	N	1	2	Y	N	0f_gen	LT
+921	ACAD	those higher in humor creativity: they are willing to walk closer to the edge of propriety. # These preliminary findings should be interpreted cautiously. In spite of the	N	1	2	N	Y	0f_gen	LT
+922	WEB	"people marching alongside. Survivors, years later, told of halting at the edge of the Mississippi in the middle of winter, the river running full of ice,"	N	2	2	N	Y	0f_gen	OT
+923	NEWS	"the table. Spectators and teams quickly abandon the bleachers and surge to the edge of the stage, shouting advice. ("" Give him more thumb! "" """	N	2	2	N	Y	0f_gen	LT
+924	NEWS	"surrounding seafloor - suggesting that it represents a fragment of crust torn from the edge of one continent or another. That's why Canada, Greenland, and Russia each"	N	4	2	N	Y	0f_gen	LT
+925	BLOG	"'s rural poverty. Today, however, even as Spain teeters on the edge of economic catastrophe, the Galician city La Corua has attracted notice as the hometown of"	N	2	2	N	N	0f_gen	OT
+926	WEB	can't get here soon enough! Obama has brought our country to the edge of a cliff and if re-elected will push us over said cliff. # August 14	N	2	2	N	Y	0f_gen	OT
+927	BLOG	"with a better example.) These sorts of questions are often at the edge of scientific knowledge, and it is not always easy to recognize what they are."	N	2	2	N	N	0f_gen	OT
+928	WEB	of collapse. Now the biggest banks are threatening to take us to the edge of an ecological catastrophe if they	N	3	2	N	N	0f_gen	OT
+929	WEB	"what they are now calling The Interchange, a major transit hub at the edge of their downtown central business district. This new nexus, designed by EE &K; a"	N	5	2	N	Y	0f_gen	OT
+930	ACAD	"of earth, and the muddy basin here emerges to the right along the edge of the swamp. # The marshland's pestilential vapors and its warm, humid climate"	N	2	2	N	N	0f_gen	LT
+931	WEB	"had ravaged France. They disembarked and fortified themselves at Appledore, on the edge of the forest. They were followed by eighty ships conveying a second force of raiders"	N	2	2	N	Y	0f_gen	OT
+932	BLOG	which is mostly treeless. You'd think finding the way back to the edge of the Everfree would be easy... Fortunately this spry ass knew the way. #	N	2	2	N	N	0f_gen	OT
+933	WEB	"Another hinge on one end is attached to a clamp he secures to the edge of a table. "" Now, "" he says, holding the bar vertically,"	N	2	2	N	Y	0f_gen	OT
+934	WEB	"Full of characters rich in heart, smarts, and courage, On the Edge of the Dark Sea of Darkness presents a world of wonder and a tale children of"	N	5	2	Y	Y	0f_gen	OT
+935	WEB	"that Helena lay awake, unable or unwilling to surrender. Myka tucked the edge of the blanket along Helena's back and, with a sigh, lowered her head"	N	2	2	N	Y	0f_gen	OT
+936	BLOG	"a spill from the goalkeeper after Rafael had sent in a piledriver from the edge of the box. # But Norwich managed to hold out. In doing so,"	N	2	2	Y	Y	0f_gen	OT
+937	WEB	cross section also indicates that the New Jersey barrier is placed right on the edge of the constructed pavement. There should be at least 100m of constructed pavement beyond the	N	3	2	N	Y	0f_gen	OT
+938	NEWS	"Beach's pier, located at 39th Place near Belmont Brewing Company on the edge of Belmont Shore, is unique among piers on the Southern California coast because of the"	N	2	2	N	Y	0f_gen	LT
+939	WEB	". # The fringe of aging "" finger piers "" that had lined the edge of the island for a century would be demolished to make way for new residential and"	N	2	2	N	Y	0f_gen	OT
+940	WEB	". It is night. He solemnly bows before a little altar at the edge of the roof, and then walks calmly through the mostly deserted streets of his run-down"	N	2	2	N	Y	0f_gen	OT
+941	ACAD	"storage tanks have revealed that areas above the waterline (i.e., along the edge of structural roof supports, between intermittent welds, and around the compression ring, upper"	N	3	2	Y	Y	0f_gen	LT
+942	NEWS	"plane to Tallahassee. # "" We don't think we're on the edge of a constitutional crisis and we don't intend to try to provoke a constitutional crisis"	N	3	2	Y	N	0f_gen	LT
+943	BLOG	"this case, is God's plan for Felix Baumgartner to sky-dive from the edge of space (likely enshrined as one of the greatest daredevils ever!) or to"	N	1	2	Y	N	0f_gen	OT
+944	WEB	"shield, you can kick the Orcs shooting the arrows at you off the edge of the waterfall for more "" Excellents "". Locksmithes. # Hint: Gap Of"	N	2	2	N	N	0f_gen	OT
+945	WEB	"now 44, came here to the Granjeno Research Natural Area, on the edge of the Laguna Atascosa National Wildlife Refuge (LANWR), as a graduate student on"	N	6	2	N	N	0f_gen	OT
+946	NEWS	"to the motel with him, then raped her in the shrubs at the edge of the motel property. # 1600 block of Briarwood Road N.E. A woman was attacked"	N	3	2	N	N	0f_gen	LT
+947	WEB	of money. Our goal is to use minimal advertising to simply support the cost of maintaining and improving the site. The possibility of earning something from the links does	N	5	2	N	N	0f_gen	OT
+948	ACAD	management of complications in a given patient can add thousands of dollars to the cost of the original surgery. Additional costs are also incurred by a patient's family in	N	3	2	N	N	0f_gen	LT
+949	BLOG	", but don't feel like you are obligated to do it at the cost of your sanity. # Finally, if none of this works and you get a"	N	2	2	N	N	0f_gen	OT
+950	NEWS	"ought to have. "" And later: "" In order to bring the cost of health care down, we don't need to have a board of 15 people"	N	2	2	N	N	0f_gen	LT
+951	BLOG	"Ivy League schools based on whichever school was the best fit rather than the cost of the educations. # "" The goal was to make it affordable and something that"	N	2	2	Y	N	0f_gen	OT
+952	ACAD	per client toward fair market monthly rent and $ 55 per client toward the cost of monthly housing support services. The remaining support and treatment services delivered were paid for	N	4	2	Y	N	0f_gen	LT
+953	ACAD	"). Although implementing health care reform will be expensive and challenging, the cost of failure is higher. # THE NURSE PRACTITIONER ROLE Because the need for accessible quality"	N	1	2	N	N	0f_gen	LT
+954	WEB	accommodations may remove play areas that are merely ancillary amenities rather than incur the cost of barrier removal under the 2010 Standards. The Department has decided that the comments did	N	2	2	N	N	0f_gen	OT
+955	WEB	"efficient) with a thermal, never PV, panel? What is the cost of the first plan, the utility plan? Tremendous in $, huge depletion of"	N	3	2	N	N	0f_gen	OT
+956	NEWS	"museums, you can get a high-quality traveling exhibition for a fraction of the cost of a Monet, "" says Professor Brooks. # The title of the Hammer show"	N	2	2	N	N	0f_gen	LT
+957	NEWS	participate in a prescription-drug plan. Insurance would pay for 50 percent of the cost of drugs above an initial $ 275 deductible. # Coverage: Would lapse once total	N	1	2	Y	N	0f_gen	LT
+958	WEB	"need to be reasonable to attain, and maintain, certification "". The cost of the Accessiweb certification is significant: EUR 3.500 (USD 4.670 at the time of"	N	3	2	N	N	0f_gen	OT
+959	ACAD	"miscommunications, and rehashing issues that have already been settled once. # The cost of that friction is buried in law firm overhead but adds substantially to the real cost"	N	2	2	N	N	0f_gen	LT
+960	NEWS	"issues that will be paramount for the next generation -- the environment and the cost of government. Savings from reduced need for building acquisition, maintenance, heating and security"	N	1	2	N	N	0f_gen	LT
+961	ACAD	". in Amesbury, Mass., to treat processing exhaust for less than the cost of traditional oxidation. # The devices are designed to treat VOC-laden exhaust streams from a"	N	2	2	N	N	0f_gen	LT
+962	BLOG	bumping into superman and batman every other month just to boost sales at the cost of real stories. # I liked Hellblazer because it wasn't involved with crossovers or	N	2	2	Y	N	0f_gen	OT
+963	ACAD	the many specialty clinics to which he has been sent (each at the cost of a day off from work) will coincide with his disease of the moment. 85	N	5	2	N	N	0f_gen	LT
+964	NEWS	prison if they can not be rehabilitated. # The money would cover the cost of adding 576 TYC beds that the agency estimates the proposal would require. # This	N	4	2	N	N	0f_gen	LT
+965	NEWS	"BOE is calculated by dividing the reported cost of acquiring unproven properties plus the cost of exploration and development activities by the proven reserve additions from field extensions and discoveries,"	N	4	2	N	N	0f_gen	LT
+966	NEWS	"120 gigabytes or more. # Dr. Indeck adds that these days, the cost of hard-drive space, after adjusting for inflation, now stands at a paltry one-tenth of"	N	2	2	Y	N	0f_gen	LT
+967	BLOG	". Reductions related to other prescription drugs have regularly occurred. # "" The cost of prescription drugs incur a tremendous burden to the U.S. economy, whether paid by private"	N	2	2	Y	N	0f_gen	OT
+968	NEWS	"provide debates like this on a regular basis nationwide, you'd cut the cost of presidential campaigns in half. And then as a condition of being part of that"	N	2	2	Y	N	0f_gen	LT
+969	ACAD	"actually made during the next half century usually had only one tier. The cost of three full tiers put them beyond most people's reach, but the model in"	N	3	2	Y	N	0f_gen	LT
+970	BLOG	"jobs live paycheck to paycheck and should get raises to keep up with the cost of living. Also pensions are based on the 5 highest years salary, if you"	N	1	2	N	N	0f_gen	OT
